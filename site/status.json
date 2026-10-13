@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-13T08:50:13.437675+00:00",
-  "youtube_entries": 44,
+  "generated_at_utc": "2026-10-13T09:28:00.429173+00:00",
+  "youtube_entries": 43,
   "direct_entries": 4,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 19
+      "entries": 18
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -21,7 +21,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 24
+      "entries": 23
     },
     {
       "file": "english_youtube_live.m3u",
@@ -29,15 +29,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 44
+      "entries": 43
     },
     {
       "file": "all_live.m3u",
-      "entries": 48
+      "entries": 47
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 23
+      "entries": 22
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -92,7 +92,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -763,16 +763,16 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 44,
-      "no_current_live_broadcast": 59,
+      "included": 43,
+      "no_current_live_broadcast": 60,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 44
+      "inclusion": 43
     },
     "codes": {
-      "other_extraction_error": 15
+      "other_extraction_error": 14
     }
   }
 }
