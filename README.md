@@ -21,7 +21,7 @@ use only.
 ## Refresh and playback
 
 The private generator is configured for a best-effort two-hour refresh using a
-trusted home runner. Until that runner and its publishing credential are configured,
+trusted home runner. Until that runner is configured and a refresh succeeds,
 this repository contains only the bootstrap output. Check the published UTC
 timestamp; a successful Pages deployment is not proof of a new extraction run.
 
