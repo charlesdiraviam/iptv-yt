@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-13T02:35:56.840537+00:00",
+  "generated_at_utc": "2026-10-13T05:16:47.783972+00:00",
   "youtube_entries": 0,
   "direct_entries": 4,
   "playlists": [
@@ -50,43 +50,43 @@
       "name": "NewsTamil 24x7",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Polimer News",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Puthiya Thalaimurai",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Thanthi TV",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "M Nadu News",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Sathiyam TV",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Malaimurasu TV",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Dinamalar",
@@ -98,7 +98,7 @@
       "name": "News18 Tamil Nadu",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "1Yes News",
@@ -110,25 +110,25 @@
       "name": "Raj News",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "NewsJ",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Jaya Plus",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Kalaignar News",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Captain News",
@@ -140,43 +140,43 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Chanakyaa",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Sun News",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "ABP Nadu",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News7 Tamil",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Tridev Tamil Rhymes",
       "region": "Tamil",
       "group": "Kids",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Pattampoochi",
@@ -296,7 +296,7 @@
       "name": "ABC News Australia",
       "region": "Australia",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "7NEWS Australia",
@@ -440,13 +440,13 @@
       "name": "The Wiggles",
       "region": "Australia",
       "group": "Kids",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Bluey - Official Channel",
       "region": "Australia",
       "group": "Kids",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "ABC Kids",
@@ -458,25 +458,25 @@
       "name": "Lah-Lah",
       "region": "Australia",
       "group": "Kids",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Bounce Patrol",
       "region": "Australia",
       "group": "Kids",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "The Mik Maks",
       "region": "Australia",
       "group": "Kids",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Sky News",
       "region": "UK",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "BBC News",
@@ -488,13 +488,13 @@
       "name": "GB News",
       "region": "UK",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Times Radio",
       "region": "UK",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "ITV News",
@@ -518,13 +518,13 @@
       "name": "Mr Bean",
       "region": "UK",
       "group": "Entertainment",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "The Graham Norton Show",
       "region": "UK",
       "group": "Entertainment",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "BBC Radio 1",
@@ -572,19 +572,19 @@
       "name": "Peppa Pig",
       "region": "UK",
       "group": "Kids",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Thomas & Friends",
       "region": "UK",
       "group": "Kids",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Morph",
       "region": "UK",
       "group": "Kids",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "BBC Earth Kids",
@@ -596,37 +596,37 @@
       "name": "NBC News",
       "region": "US",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "ABC News",
       "region": "US",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "CBS News",
       "region": "US",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "LiveNOW from FOX",
       "region": "US",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Bloomberg Television",
       "region": "US",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "CNBC",
       "region": "US",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "PBS NewsHour",
@@ -644,13 +644,13 @@
       "name": "NASA",
       "region": "US",
       "group": "Entertainment",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "National Geographic",
       "region": "US",
       "group": "Entertainment",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "PBS",
@@ -716,25 +716,25 @@
       "name": "Sesame Street",
       "region": "US",
       "group": "Kids",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "PBS KIDS",
       "region": "US",
       "group": "Kids",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Disney Jr.",
       "region": "US",
       "group": "Kids",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Nickelodeon",
       "region": "US",
       "group": "Kids",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Makkal TV",
@@ -763,17 +763,14 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "live_but_no_accessible_hls": 45,
-      "no_current_live_broadcast": 58,
+      "no_current_live_broadcast": 103,
       "no_streams_tab": 12
     },
     "stages": {
-      "listing": 103,
-      "download_error": 45
+      "listing": 103
     },
     "codes": {
-      "bot_verification_required": 45,
-      "other_extraction_error": 46
+      "other_extraction_error": 14
     }
   }
 }
