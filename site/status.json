@@ -1,0 +1,779 @@
+{
+  "generated_at_utc": "2026-10-13T02:35:56.840537+00:00",
+  "youtube_entries": 0,
+  "direct_entries": 4,
+  "playlists": [
+    {
+      "file": "tamil_youtube_live.m3u",
+      "entries": 0
+    },
+    {
+      "file": "australian_youtube_live.m3u",
+      "entries": 0
+    },
+    {
+      "file": "uk_youtube_live.m3u",
+      "entries": 0
+    },
+    {
+      "file": "us_youtube_live.m3u",
+      "entries": 0
+    },
+    {
+      "file": "tamil_australian_youtube_live.m3u",
+      "entries": 0
+    },
+    {
+      "file": "english_youtube_live.m3u",
+      "entries": 0
+    },
+    {
+      "file": "all_youtube_live.m3u",
+      "entries": 0
+    },
+    {
+      "file": "all_live.m3u",
+      "entries": 4
+    },
+    {
+      "file": "tamil_live.m3u",
+      "entries": 4
+    },
+    {
+      "file": "tamil_broadcaster_live.m3u",
+      "entries": 4
+    }
+  ],
+  "legacy_playlists": [],
+  "channels": [
+    {
+      "name": "NewsTamil 24x7",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Polimer News",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Puthiya Thalaimurai",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Thanthi TV",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "M Nadu News",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Sathiyam TV",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Malaimurasu TV",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Dinamalar",
+      "region": "Tamil",
+      "group": "News",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "News18 Tamil Nadu",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "1Yes News",
+      "region": "Tamil",
+      "group": "News",
+      "status": "no_streams_tab"
+    },
+    {
+      "name": "Raj News",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "NewsJ",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Jaya Plus",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Kalaignar News",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Captain News",
+      "region": "Tamil",
+      "group": "News",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Zee Tamil News",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Chanakyaa",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Sun News",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "ABP Nadu",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "News7 Tamil",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "DD Tamil News",
+      "region": "Tamil",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Tridev Tamil Rhymes",
+      "region": "Tamil",
+      "group": "Kids",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Pattampoochi",
+      "region": "Tamil",
+      "group": "Kids",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "ChuChuTV Tamil",
+      "region": "Tamil",
+      "group": "Kids",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Infobells Tamil",
+      "region": "Tamil",
+      "group": "Kids",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Sun TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Vijay Television",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Zee Tamil",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Kalaignar TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Jaya TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Raj Television",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "DD Tamil",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Vendhar TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Puthuyugam TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Peppers TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Star Sports Tamil",
+      "region": "Tamil",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Sports Vikatan",
+      "region": "Tamil",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "KTV",
+      "region": "Tamil",
+      "group": "Cinema",
+      "status": "no_streams_tab"
+    },
+    {
+      "name": "Movie World Tamil",
+      "region": "Tamil",
+      "group": "Cinema",
+      "status": "no_streams_tab"
+    },
+    {
+      "name": "Eros Universe Tamil",
+      "region": "Tamil",
+      "group": "Cinema",
+      "status": "no_streams_tab"
+    },
+    {
+      "name": "J Movie Official",
+      "region": "Tamil",
+      "group": "Cinema",
+      "status": "no_streams_tab"
+    },
+    {
+      "name": "ABC News Australia",
+      "region": "Australia",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "7NEWS Australia",
+      "region": "Australia",
+      "group": "News",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "9 News Australia",
+      "region": "Australia",
+      "group": "News",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "SBS News",
+      "region": "Australia",
+      "group": "News",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "10 News",
+      "region": "Australia",
+      "group": "News",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "ABC Entertainment",
+      "region": "Australia",
+      "group": "Entertainment",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Bondi Rescue",
+      "region": "Australia",
+      "group": "Entertainment",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "The Project",
+      "region": "Australia",
+      "group": "Entertainment",
+      "status": "no_streams_tab"
+    },
+    {
+      "name": "ABC Science",
+      "region": "Australia",
+      "group": "Entertainment",
+      "status": "no_streams_tab"
+    },
+    {
+      "name": "Australia Zoo",
+      "region": "Australia",
+      "group": "Entertainment",
+      "status": "no_streams_tab"
+    },
+    {
+      "name": "Survivor Australia",
+      "region": "Australia",
+      "group": "Entertainment",
+      "status": "no_streams_tab"
+    },
+    {
+      "name": "triple j",
+      "region": "Australia",
+      "group": "Music",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "ABC Classic",
+      "region": "Australia",
+      "group": "Music",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Sydney Opera House",
+      "region": "Australia",
+      "group": "Music",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Australian Chamber Orchestra",
+      "region": "Australia",
+      "group": "Music",
+      "status": "no_streams_tab"
+    },
+    {
+      "name": "Melbourne Symphony Orchestra",
+      "region": "Australia",
+      "group": "Music",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "cricket.com.au",
+      "region": "Australia",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "AFL",
+      "region": "Australia",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "NRL",
+      "region": "Australia",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "NRL on Nine",
+      "region": "Australia",
+      "group": "Sports",
+      "status": "no_streams_tab"
+    },
+    {
+      "name": "Australian Open",
+      "region": "Australia",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "A-Leagues",
+      "region": "Australia",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "SBS Sport",
+      "region": "Australia",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "ESPN Australia",
+      "region": "Australia",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "The Wiggles",
+      "region": "Australia",
+      "group": "Kids",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Bluey - Official Channel",
+      "region": "Australia",
+      "group": "Kids",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "ABC Kids",
+      "region": "Australia",
+      "group": "Kids",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Lah-Lah",
+      "region": "Australia",
+      "group": "Kids",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Bounce Patrol",
+      "region": "Australia",
+      "group": "Kids",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "The Mik Maks",
+      "region": "Australia",
+      "group": "Kids",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Sky News",
+      "region": "UK",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "BBC News",
+      "region": "UK",
+      "group": "News",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "GB News",
+      "region": "UK",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Times Radio",
+      "region": "UK",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "ITV News",
+      "region": "UK",
+      "group": "News",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Channel 4 News",
+      "region": "UK",
+      "group": "News",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "BBC Earth",
+      "region": "UK",
+      "group": "Entertainment",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Mr Bean",
+      "region": "UK",
+      "group": "Entertainment",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "The Graham Norton Show",
+      "region": "UK",
+      "group": "Entertainment",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "BBC Radio 1",
+      "region": "UK",
+      "group": "Music",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "NTS Radio",
+      "region": "UK",
+      "group": "Music",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Boiler Room",
+      "region": "UK",
+      "group": "Music",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Sky Sports",
+      "region": "UK",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Premier League",
+      "region": "UK",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Wimbledon",
+      "region": "UK",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "England",
+      "region": "UK",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Peppa Pig",
+      "region": "UK",
+      "group": "Kids",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Thomas & Friends",
+      "region": "UK",
+      "group": "Kids",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Morph",
+      "region": "UK",
+      "group": "Kids",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "BBC Earth Kids",
+      "region": "UK",
+      "group": "Kids",
+      "status": "no_streams_tab"
+    },
+    {
+      "name": "NBC News",
+      "region": "US",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "ABC News",
+      "region": "US",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "CBS News",
+      "region": "US",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "LiveNOW from FOX",
+      "region": "US",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Bloomberg Television",
+      "region": "US",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "CNBC",
+      "region": "US",
+      "group": "News",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "PBS NewsHour",
+      "region": "US",
+      "group": "News",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Fox News",
+      "region": "US",
+      "group": "News",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "NASA",
+      "region": "US",
+      "group": "Entertainment",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "National Geographic",
+      "region": "US",
+      "group": "Entertainment",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "PBS",
+      "region": "US",
+      "group": "Entertainment",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Smithsonian Channel",
+      "region": "US",
+      "group": "Entertainment",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "NPR Music",
+      "region": "US",
+      "group": "Music",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Jazz at Lincoln Center",
+      "region": "US",
+      "group": "Music",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "KEXP",
+      "region": "US",
+      "group": "Music",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "NBA",
+      "region": "US",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "NFL",
+      "region": "US",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "MLB",
+      "region": "US",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "ESPN",
+      "region": "US",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "WWE",
+      "region": "US",
+      "group": "Sports",
+      "status": "no_current_live_broadcast"
+    },
+    {
+      "name": "Sesame Street",
+      "region": "US",
+      "group": "Kids",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "PBS KIDS",
+      "region": "US",
+      "group": "Kids",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Disney Jr.",
+      "region": "US",
+      "group": "Kids",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Nickelodeon",
+      "region": "US",
+      "group": "Kids",
+      "status": "live_but_no_accessible_hls"
+    },
+    {
+      "name": "Makkal TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Athavan TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "IBC Tamil TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Tamil Vision HD (TVI HD)",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    }
+  ],
+  "youtube_diagnostics": {
+    "statuses": {
+      "live_but_no_accessible_hls": 45,
+      "no_current_live_broadcast": 58,
+      "no_streams_tab": 12
+    },
+    "stages": {
+      "listing": 103,
+      "download_error": 45
+    },
+    "codes": {
+      "bot_verification_required": 45,
+      "other_extraction_error": 46
+    }
+  }
+}
