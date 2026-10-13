@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-13T09:28:00.429173+00:00",
-  "youtube_entries": 43,
+  "generated_at_utc": "2026-10-13T11:55:48.767531+00:00",
+  "youtube_entries": 45,
   "direct_entries": 4,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 18
+      "entries": 20
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -21,7 +21,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 23
+      "entries": 25
     },
     {
       "file": "english_youtube_live.m3u",
@@ -29,15 +29,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 43
+      "entries": 45
     },
     {
       "file": "all_live.m3u",
-      "entries": 47
+      "entries": 49
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 22
+      "entries": 24
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -92,7 +92,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -170,7 +170,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -763,13 +763,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 43,
-      "no_current_live_broadcast": 60,
+      "included": 45,
+      "no_current_live_broadcast": 58,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 43
+      "inclusion": 45
     },
     "codes": {
       "other_extraction_error": 14
