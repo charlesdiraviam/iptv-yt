@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-14T12:02:56.811452+00:00",
-  "youtube_entries": 44,
+  "generated_at_utc": "2026-10-14T17:20:23.588074+00:00",
+  "youtube_entries": 45,
   "direct_entries": 4,
   "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 19
+      "entries": 18
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -14,31 +14,31 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 9
+      "entries": 10
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 11
+      "entries": 12
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 24
+      "entries": 23
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 20
+      "entries": 22
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 44
+      "entries": 45
     },
     {
       "file": "all_live.m3u",
-      "entries": 106
+      "entries": 107
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 81
+      "entries": 80
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Chanakyaa",
@@ -535,7 +535,7 @@
       "name": "BBC Radio 1",
       "region": "UK",
       "group": "Music",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "NTS Radio",
@@ -715,7 +715,7 @@
       "name": "WWE",
       "region": "US",
       "group": "Sports",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Sesame Street",
@@ -1338,22 +1338,21 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 44,
-      "no_current_live_broadcast": 59,
+      "included": 45,
+      "no_current_live_broadcast": 58,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "download_error": 1,
-      "inclusion": 44
+      "inclusion": 45
     },
     "codes": {
-      "other_extraction_error": 14
+      "other_extraction_error": 13
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-14T12:04:27.574301+00:00",
+    "generated_at_utc": "2026-10-14T17:21:53.235961+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1383,8 +1382,8 @@
     "reasons": {
       "http_error": 5,
       "included": 65,
-      "network_error": 10,
-      "no_accessible_variant": 15
+      "network_error": 8,
+      "no_accessible_variant": 17
     },
     "added_to_all_live": 58
   }
