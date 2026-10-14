@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-14T07:45:53.778975+00:00",
-  "youtube_entries": 45,
+  "generated_at_utc": "2026-10-14T12:02:56.811452+00:00",
+  "youtube_entries": 44,
   "direct_entries": 4,
-  "community_entries": 64,
+  "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 20
+      "entries": 19
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -22,7 +22,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 25
+      "entries": 24
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 45
+      "entries": 44
     },
     {
       "file": "all_live.m3u",
-      "entries": 105
+      "entries": 106
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 80
+      "entries": 81
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 64
+      "entries": 65
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Chanakyaa",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -796,6 +796,12 @@
       "status": "included"
     },
     {
+      "name": "Animal Planet",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
       "name": "Arputhar Yesu TV",
       "region": "Tamil",
       "group": "Entertainment",
@@ -812,6 +818,18 @@
       "region": "Tamil",
       "group": "Entertainment",
       "status": "included"
+    },
+    {
+      "name": "Cartoon Network",
+      "region": "Tamil",
+      "group": "Kids",
+      "status": "omitted"
+    },
+    {
+      "name": "Cartoon Network HD+",
+      "region": "Tamil",
+      "group": "Kids",
+      "status": "omitted"
     },
     {
       "name": "Chithiram",
@@ -850,10 +868,16 @@
       "status": "included"
     },
     {
+      "name": "Discovery Kids",
+      "region": "Tamil",
+      "group": "Kids",
+      "status": "omitted"
+    },
+    {
       "name": "EET TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Hebron TV",
@@ -1033,7 +1057,7 @@
       "name": "News18 Tamil Nadu",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "News 7 Tamil",
@@ -1261,7 +1285,7 @@
       "name": "Vaanavil TV",
       "region": "Tamil",
       "group": "Music",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Vasanth TV",
@@ -1314,21 +1338,22 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 45,
-      "no_current_live_broadcast": 58,
+      "included": 44,
+      "no_current_live_broadcast": 59,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 45
+      "download_error": 1,
+      "inclusion": 44
     },
     "codes": {
-      "other_extraction_error": 16
+      "other_extraction_error": 14
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-14T07:47:19.182457+00:00",
+    "generated_at_utc": "2026-10-14T12:04:27.574301+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1343,7 +1368,7 @@
       {
         "id": "iptv_org_tamil",
         "status": "ok",
-        "entries": 123
+        "entries": 126
       },
       {
         "id": "free_tv",
@@ -1351,16 +1376,16 @@
         "entries": 2080
       }
     ],
-    "candidate_channels": 91,
-    "candidate_streams": 93,
-    "included": 64,
-    "omitted": 27,
+    "candidate_channels": 95,
+    "candidate_streams": 97,
+    "included": 65,
+    "omitted": 30,
     "reasons": {
       "http_error": 5,
-      "included": 64,
+      "included": 65,
       "network_error": 10,
-      "no_accessible_variant": 12
+      "no_accessible_variant": 15
     },
-    "added_to_all_live": 56
+    "added_to_all_live": 58
   }
 }
