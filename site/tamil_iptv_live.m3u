@@ -1,0 +1,130 @@
+#EXTM3U
+# Generated UTC: 2026-10-14T07:45:53.778975+00:00
+#EXTINF:-1 tvg-id="AaryaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Aaryaa TV
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+#EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Aaseervatham TV
+https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
+#EXTINF:-1 tvg-id="AasthaTamil.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Aastha Tamil
+https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ArputharYesuTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Arputhar Yesu TV
+https://account33.livebox.co.in/jesushelpshls/live.m3u8
+#EXTINF:-1 tvg-id="BhagyamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Bhagyam TV
+https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8
+#EXTINF:-1 tvg-id="ColorsTamil.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Colors Tamil
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DDSports.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Sports",DD Sports
+https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
+#EXTINF:-1 tvg-id="DhoolTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Dhool TV
+https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
+#EXTINF:-1 tvg-id="HebronTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Hebron TV
+https://account20.livebox.co.in/charleshls/live.m3u8
+#EXTINF:-1 tvg-id="HosannaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Hosanna TV
+https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Isai Aruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Kalaignar Murasu
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
+#EXTINF:-1 tvg-id="KalaignarSeithigal.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Kalaignar Seithigal
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8
+#EXTINF:-1 tvg-id="KalaignarTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Kalaignar TV
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:-1 tvg-id="LifeTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Life TV
+https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+#EXTINF:-1 tvg-id="MKSix.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",MK Six
+https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
+#EXTINF:-1 tvg-id="MNaduTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",M Nadu TV
+https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
+#EXTINF:-1 tvg-id="MadhaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Madha TV
+https://mumt07.tangotv.in/zHjX9OFlMADHATV/index.m3u8
+#EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Madhimugam TV
+https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Makkal TV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Malai Murasu TV
+https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MarutamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Marutam TV
+https://mntv.livebox.co.in/mntvhls/live.m3u8
+#EXTINF:-1 tvg-id="MeiAlaiTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Mei Alai TV
+https://meialai.iptelevishion.com/meialai/2/index.m3u8
+#EXTINF:-1 tvg-id="MoonTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Moon TV
+https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
+#EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",NDTV Good Times
+https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="NHTamilGold.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Cinema",NH Tamil Gold
+https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
+#EXTINF:-1 tvg-id="NTCTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",NTC TV
+https://galaxyott.live/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="News18TamilNadu.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",News18 Tamil Nadu
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News7Tamil.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",News 7 Tamil
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+#EXTINF:-1 tvg-id="OMTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",OM TV
+https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
+#EXTINF:-1 tvg-id="OliTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Oli TV
+https://live.olidigital.in/olitv/olitv/index.m3u8
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Polimer News
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Puthiya Thalaimurai
+https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8
+#EXTINF:-1 tvg-id="PuthuyugamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Puthuyugam TV
+https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
+#EXTINF:-1 tvg-id="RajDigitalPlus.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Cinema",Raj Digital Plus
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+#EXTINF:-1 tvg-id="RajMusixTamil.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Raj Musix Tamil
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+#EXTINF:-1 tvg-id="RajTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Raj TV
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
+#EXTINF:-1 tvg-id="SVBC2.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",SVBC 2
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SaiTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sai TV
+https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
+#EXTINF:-1 tvg-id="SairamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sairam TV
+https://mumt04.tangotv.in/m18aqlK4SAIRAMTV/index.m3u8
+#EXTINF:-1 tvg-id="SanaPlus.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Sana Plus
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
+#EXTINF:-1 tvg-id="SanaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sana TV
+https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
+#EXTINF:-1 tvg-id="SankaraTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sankara TV
+https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8
+#EXTINF:-1 tvg-id="SathiyamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Sathiyam TV
+https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
+#EXTINF:-1 tvg-id="ShakthiTV.lk" tvg-language="Tamil" tvg-country="LK" group-title="Tamil Entertainment",Shakthi TV
+https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8
+#EXTINF:-1 tvg-id="SirippoliTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sirippoli TV
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1 tvg-id="SooriyanTV.ca" tvg-language="Tamil" tvg-country="CA" group-title="Tamil Entertainment",Sooriyan TV
+https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+#EXTINF:-1 tvg-id="StarVijay.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Star Vijay
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SubinTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Subin TV
+https://stream.galaxyott.live/live/subintv/index.m3u8
+#EXTINF:-1 tvg-id="SuriyaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Suriya TV
+https://stream.ottlive.co.in/suryatvtamil/index.m3u8
+#EXTINF:-1 tvg-id="TamilJanam.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Tamil Janam
+https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
+#EXTINF:-1 tvg-id="TamilanTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Tamilan TV
+https://mumt04.tangotv.in/m18aqlK4TAMILANTELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="ThalaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Cinema",Thalaa TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
+#EXTINF:-1 tvg-id="ThanthiOne.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Thanthi One
+https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
+#EXTINF:-1 tvg-id="ThanthiTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Thanthi TV
+https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ThendralTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Thendral TV
+https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
+#EXTINF:-1 tvg-id="UltimateTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Ultimate TV
+https://stream.ottlive.co.in/utvtamil/index.m3u8
+#EXTINF:-1 tvg-id="VasanthTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Vasanth TV
+https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
+#EXTINF:-1 tvg-id="VelichamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Velicham TV
+https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8
+#EXTINF:-1 tvg-id="VendharTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Vendhar TV
+https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
+#EXTINF:-1 tvg-id="VerbumTV.lk" tvg-language="Tamil" tvg-country="LK" group-title="Tamil Entertainment",Verbum TV
+https://video-eu1.streamerr.co/hls/scb80244b91/live.m3u8
+#EXTINF:-1 tvg-id="VillageTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Village TV
+https://live.villagetv.net/villagetv/hd/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Zee Tamil
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8

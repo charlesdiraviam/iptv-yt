@@ -1,7 +1,8 @@
 {
-  "generated_at_utc": "2026-10-14T05:53:43.421687+00:00",
+  "generated_at_utc": "2026-10-14T07:45:53.778975+00:00",
   "youtube_entries": 45,
   "direct_entries": 4,
+  "community_entries": 64,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
@@ -33,15 +34,19 @@
     },
     {
       "file": "all_live.m3u",
-      "entries": 49
+      "entries": 105
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 24
+      "entries": 80
     },
     {
       "file": "tamil_broadcaster_live.m3u",
       "entries": 4
+    },
+    {
+      "file": "tamil_iptv_live.m3u",
+      "entries": 64
     }
   ],
   "legacy_playlists": [],
@@ -92,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -140,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Chanakyaa",
@@ -759,6 +764,552 @@
       "region": "Tamil",
       "group": "Entertainment",
       "status": "included"
+    },
+    {
+      "name": "7S Music",
+      "region": "Tamil",
+      "group": "Music",
+      "status": "omitted"
+    },
+    {
+      "name": "Aaryaa TV",
+      "region": "Tamil",
+      "group": "Music",
+      "status": "included"
+    },
+    {
+      "name": "Aaseervatham TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Aastha Tamil",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Angel TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Arputhar Yesu TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Asia TV",
+      "region": "Tamil",
+      "group": "Kids",
+      "status": "omitted"
+    },
+    {
+      "name": "Bhagyam TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Chithiram",
+      "region": "Tamil",
+      "group": "Kids",
+      "status": "omitted"
+    },
+    {
+      "name": "Colors Tamil",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "DD Sports",
+      "region": "Tamil",
+      "group": "Sports",
+      "status": "included"
+    },
+    {
+      "name": "DD Tamil",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "Dharsan TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "Dhool TV",
+      "region": "Tamil",
+      "group": "Music",
+      "status": "included"
+    },
+    {
+      "name": "EET TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "Hebron TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Hosanna TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "IBC Bakthi",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "IBC Tamil",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "Imai TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "Isai Aruvi",
+      "region": "Tamil",
+      "group": "Music",
+      "status": "included"
+    },
+    {
+      "name": "Jaya Plus",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "Kalaignar Murasu",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Kalaignar Seithigal",
+      "region": "Tamil",
+      "group": "News",
+      "status": "included"
+    },
+    {
+      "name": "Kalaignar TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Life TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "MK Six",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "M Nadu TV",
+      "region": "Tamil",
+      "group": "News",
+      "status": "included"
+    },
+    {
+      "name": "MTA6 Asia",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "MTA7 Asia",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "Madha TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Madhimugam TV",
+      "region": "Tamil",
+      "group": "News",
+      "status": "included"
+    },
+    {
+      "name": "Mahimai TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "Makkal TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Malai Murasu TV",
+      "region": "Tamil",
+      "group": "News",
+      "status": "included"
+    },
+    {
+      "name": "Marutam TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Mei Alai TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Monara TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "Moon TV",
+      "region": "Tamil",
+      "group": "News",
+      "status": "included"
+    },
+    {
+      "name": "NDTV Good Times",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "NDTV LANKA",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "NH Tamil Gold",
+      "region": "Tamil",
+      "group": "Cinema",
+      "status": "included"
+    },
+    {
+      "name": "NTC TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Nambikkai TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "News18 Tamil Nadu",
+      "region": "Tamil",
+      "group": "News",
+      "status": "included"
+    },
+    {
+      "name": "News 7 Tamil",
+      "region": "Tamil",
+      "group": "News",
+      "status": "included"
+    },
+    {
+      "name": "News J",
+      "region": "Tamil",
+      "group": "News",
+      "status": "omitted"
+    },
+    {
+      "name": "News Tamil 24x7",
+      "region": "Tamil",
+      "group": "News",
+      "status": "omitted"
+    },
+    {
+      "name": "OM TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Oli TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Peppers TV",
+      "region": "Tamil",
+      "group": "Music",
+      "status": "omitted"
+    },
+    {
+      "name": "Polimer News",
+      "region": "Tamil",
+      "group": "News",
+      "status": "included"
+    },
+    {
+      "name": "Polimer TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "Puthiya Thalaimurai",
+      "region": "Tamil",
+      "group": "News",
+      "status": "included"
+    },
+    {
+      "name": "Puthuyugam TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Raj Digital Plus",
+      "region": "Tamil",
+      "group": "Cinema",
+      "status": "included"
+    },
+    {
+      "name": "Raj Musix Tamil",
+      "region": "Tamil",
+      "group": "Music",
+      "status": "included"
+    },
+    {
+      "name": "Raj TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "SVBC 2",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Sai TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Sairam TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Sana Plus",
+      "region": "Tamil",
+      "group": "Music",
+      "status": "included"
+    },
+    {
+      "name": "Sana TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Sankara TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Sathiyam TV",
+      "region": "Tamil",
+      "group": "News",
+      "status": "included"
+    },
+    {
+      "name": "Shakthi TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Sirippoli TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Sooriyan TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Star Tamil Television",
+      "region": "Tamil",
+      "group": "Cinema",
+      "status": "omitted"
+    },
+    {
+      "name": "Star Vijay",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Subin TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Suriya TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Suriyan TV",
+      "region": "Tamil",
+      "group": "Cinema",
+      "status": "omitted"
+    },
+    {
+      "name": "Tamil Janam",
+      "region": "Tamil",
+      "group": "News",
+      "status": "included"
+    },
+    {
+      "name": "TamilVision-TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "Tamilan TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Thalaa TV",
+      "region": "Tamil",
+      "group": "Cinema",
+      "status": "included"
+    },
+    {
+      "name": "Thanthi One",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Thanthi TV",
+      "region": "Tamil",
+      "group": "News",
+      "status": "included"
+    },
+    {
+      "name": "Thendral TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Travelxp",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "Ultimate TV",
+      "region": "Tamil",
+      "group": "Music",
+      "status": "included"
+    },
+    {
+      "name": "Vaanavil TV",
+      "region": "Tamil",
+      "group": "Music",
+      "status": "omitted"
+    },
+    {
+      "name": "Vasanth TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Velicham TV",
+      "region": "Tamil",
+      "group": "News",
+      "status": "included"
+    },
+    {
+      "name": "Vendhar TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Verbum TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Village TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Win TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
+      "name": "Zee Tamil",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "included"
+    },
+    {
+      "name": "Zee Tamil News",
+      "region": "Tamil",
+      "group": "News",
+      "status": "omitted"
     }
   ],
   "youtube_diagnostics": {
@@ -772,7 +1323,44 @@
       "inclusion": 45
     },
     "codes": {
-      "other_extraction_error": 14
+      "other_extraction_error": 16
     }
+  },
+  "iptv_discovery": {
+    "schema_version": 1,
+    "generated_at_utc": "2026-10-14T07:47:19.182457+00:00",
+    "catalogs": [
+      {
+        "id": "iptv_org_channels",
+        "status": "ok",
+        "entries": 31570
+      },
+      {
+        "id": "iptv_org_feeds",
+        "status": "ok",
+        "entries": 45168
+      },
+      {
+        "id": "iptv_org_tamil",
+        "status": "ok",
+        "entries": 123
+      },
+      {
+        "id": "free_tv",
+        "status": "ok",
+        "entries": 2080
+      }
+    ],
+    "candidate_channels": 91,
+    "candidate_streams": 93,
+    "included": 64,
+    "omitted": 27,
+    "reasons": {
+      "http_error": 5,
+      "included": 64,
+      "network_error": 10,
+      "no_accessible_variant": 12
+    },
+    "added_to_all_live": 56
   }
 }
