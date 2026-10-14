@@ -27,13 +27,13 @@ jobs:
         run: |
           set -euo pipefail
           test -d site && test ! -L site
-          test "$(find site -mindepth 1 -maxdepth 1 | wc -l)" -eq 13
+          test "$(find site -mindepth 1 -maxdepth 1 | wc -l)" -eq 14
           for name in index.html status.json .nojekyll \
             tamil_youtube_live.m3u australian_youtube_live.m3u \
             uk_youtube_live.m3u us_youtube_live.m3u \
             tamil_australian_youtube_live.m3u english_youtube_live.m3u \
             all_youtube_live.m3u all_live.m3u tamil_live.m3u \
-            tamil_broadcaster_live.m3u; do
+            tamil_broadcaster_live.m3u tamil_iptv_live.m3u; do
             test -f "site/${name}" && test ! -L "site/${name}"
           done
           test -s site/index.html && test -s site/status.json
