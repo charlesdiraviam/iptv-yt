@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-14T21:48:58.021279+00:00",
+  "generated_at_utc": "2026-10-15T00:37:07.506039+00:00",
   "youtube_entries": 46,
   "direct_entries": 4,
-  "community_entries": 66,
+  "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
@@ -34,11 +34,11 @@
     },
     {
       "file": "all_live.m3u",
-      "entries": 109
+      "entries": 108
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 81
+      "entries": 80
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 66
+      "entries": 65
     }
   ],
   "legacy_playlists": [],
@@ -643,7 +643,7 @@
       "name": "Fox News",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "NASA",
@@ -703,7 +703,7 @@
       "name": "MLB",
       "region": "US",
       "group": "Sports",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "ESPN",
@@ -1195,7 +1195,7 @@
       "name": "Sooriyan TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Star Tamil Television",
@@ -1347,12 +1347,12 @@
       "inclusion": 46
     },
     "codes": {
-      "other_extraction_error": 14
+      "other_extraction_error": 15
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-14T21:50:23.854365+00:00",
+    "generated_at_utc": "2026-10-15T00:38:17.182116+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1372,19 +1372,19 @@
       {
         "id": "free_tv",
         "status": "ok",
-        "entries": 2080
+        "entries": 2023
       }
     ],
     "candidate_channels": 95,
     "candidate_streams": 97,
-    "included": 66,
-    "omitted": 29,
+    "included": 65,
+    "omitted": 30,
     "reasons": {
-      "http_error": 4,
-      "included": 66,
-      "network_error": 9,
-      "no_accessible_variant": 16
+      "http_error": 5,
+      "included": 65,
+      "network_error": 8,
+      "no_accessible_variant": 17
     },
-    "added_to_all_live": 59
+    "added_to_all_live": 58
   }
 }

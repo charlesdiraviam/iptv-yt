@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-10-14T21:48:58.021279+00:00
+# Generated UTC: 2026-10-15T00:37:07.506039+00:00
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Aaseervatham TV
@@ -96,8 +96,6 @@ https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8
 #EXTINF:-1 tvg-id="SirippoliTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sirippoli TV
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-#EXTINF:-1 tvg-id="SooriyanTV.ca" tvg-language="Tamil" tvg-country="CA" group-title="Tamil Entertainment",Sooriyan TV
-https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Star Vijay
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SubinTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Subin TV
