@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-15T13:32:43.426002+00:00",
-  "youtube_entries": 45,
+  "generated_at_utc": "2026-10-15T18:23:47.112478+00:00",
+  "youtube_entries": 48,
   "direct_entries": 3,
-  "community_entries": 65,
+  "community_entries": 62,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 19
+      "entries": 17
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -14,31 +14,31 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 9
+      "entries": 11
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 12
+      "entries": 15
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 24
+      "entries": 22
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 21
+      "entries": 26
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 45
+      "entries": 48
     },
     {
       "file": "all_live.m3u",
-      "entries": 106
+      "entries": 108
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 80
+      "entries": 77
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 65
+      "entries": 62
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -241,7 +241,7 @@
       "name": "DD Tamil",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Vendhar TV",
@@ -505,7 +505,7 @@
       "name": "ITV News",
       "region": "UK",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Channel 4 News",
@@ -535,7 +535,7 @@
       "name": "BBC Radio 1",
       "region": "UK",
       "group": "Music",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "NTS Radio",
@@ -637,7 +637,7 @@
       "name": "PBS NewsHour",
       "region": "US",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Fox News",
@@ -703,13 +703,13 @@
       "name": "MLB",
       "region": "US",
       "group": "Sports",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "ESPN",
       "region": "US",
       "group": "Sports",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "WWE",
@@ -997,7 +997,7 @@
       "name": "Makkal TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Malai Murasu TV",
@@ -1105,7 +1105,7 @@
       "name": "Polimer News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Polimer TV",
@@ -1147,7 +1147,7 @@
       "name": "SVBC 2",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Sai TV",
@@ -1344,13 +1344,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 45,
-      "no_current_live_broadcast": 58,
+      "included": 48,
+      "no_current_live_broadcast": 55,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 45
+      "inclusion": 48
     },
     "codes": {
       "other_extraction_error": 15
@@ -1358,7 +1358,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-15T13:34:02.432578+00:00",
+    "generated_at_utc": "2026-10-15T18:25:11.249279+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1383,14 +1383,14 @@
     ],
     "candidate_channels": 96,
     "candidate_streams": 99,
-    "included": 65,
-    "omitted": 31,
+    "included": 62,
+    "omitted": 34,
     "reasons": {
       "http_error": 6,
-      "included": 65,
-      "network_error": 8,
-      "no_accessible_variant": 17
+      "included": 62,
+      "network_error": 10,
+      "no_accessible_variant": 18
     },
-    "added_to_all_live": 58
+    "added_to_all_live": 57
   }
 }

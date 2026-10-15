@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-10-15T13:32:43.426002+00:00
+# Generated UTC: 2026-10-15T18:23:47.112478+00:00
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Aaseervatham TV
@@ -42,8 +42,6 @@ https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlMADHATV/index.m3u8
 #EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Madhimugam TV
 https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
-#EXTINF:-1 tvg-id="MakkalTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Makkal TV
-https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Malai Murasu TV
 https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MarutamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Marutam TV
@@ -64,8 +62,6 @@ https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 #EXTINF:-1 tvg-id="OliTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Oli TV
 https://live.olidigital.in/olitv/olitv/index.m3u8
-#EXTINF:-1 tvg-id="PolimerNews.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Polimer News
-https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Puthiya Thalaimurai
 https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8
 #EXTINF:-1 tvg-id="PuthuyugamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Puthuyugam TV
@@ -76,8 +72,6 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/mas
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
 #EXTINF:-1 tvg-id="RajTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Raj TV
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
-#EXTINF:-1 tvg-id="SVBC2.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",SVBC 2
-https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SaiTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sai TV
 https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
 #EXTINF:-1 tvg-id="SairamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sairam TV
