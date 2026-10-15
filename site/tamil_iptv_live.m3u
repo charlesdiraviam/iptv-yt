@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-10-15T18:23:47.112478+00:00
+# Generated UTC: 2026-10-15T23:08:43.981866+00:00
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Aaseervatham TV
@@ -24,6 +24,8 @@ https://eu.streamjo.com/eetlive/eettv.m3u8
 https://account20.livebox.co.in/charleshls/live.m3u8
 #EXTINF:-1 tvg-id="HosannaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Hosanna TV
 https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ImaiTV.lk" tvg-language="Tamil" tvg-country="LK" group-title="Tamil Entertainment",Imai TV
+https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Isai Aruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Kalaignar Murasu
@@ -42,6 +44,8 @@ https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlMADHATV/index.m3u8
 #EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Madhimugam TV
 https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Makkal TV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Malai Murasu TV
 https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MarutamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Marutam TV
