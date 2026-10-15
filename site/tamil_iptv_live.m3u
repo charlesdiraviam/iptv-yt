@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-10-15T00:37:07.506039+00:00
+# Generated UTC: 2026-10-15T07:34:25.145674+00:00
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Aaseervatham TV
@@ -24,12 +24,8 @@ https://eu.streamjo.com/eetlive/eettv.m3u8
 https://account20.livebox.co.in/charleshls/live.m3u8
 #EXTINF:-1 tvg-id="HosannaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Hosanna TV
 https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ImaiTV.lk" tvg-language="Tamil" tvg-country="LK" group-title="Tamil Entertainment",Imai TV
-https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Isai Aruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-#EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Kalaignar Murasu
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
 #EXTINF:-1 tvg-id="KalaignarSeithigal.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Kalaignar Seithigal
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8
 #EXTINF:-1 tvg-id="KalaignarTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Kalaignar TV
@@ -96,6 +92,8 @@ https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8
 #EXTINF:-1 tvg-id="SirippoliTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sirippoli TV
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1 tvg-id="SooriyanTV.ca" tvg-language="Tamil" tvg-country="CA" group-title="Tamil Entertainment",Sooriyan TV
+https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Star Vijay
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SubinTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Subin TV

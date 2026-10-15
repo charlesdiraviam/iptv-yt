@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-15T00:37:07.506039+00:00",
+  "generated_at_utc": "2026-10-15T07:34:25.145674+00:00",
   "youtube_entries": 46,
   "direct_entries": 4,
-  "community_entries": 65,
+  "community_entries": 64,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 18
+      "entries": 20
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -18,15 +18,15 @@
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 14
+      "entries": 12
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 23
+      "entries": 25
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 23
+      "entries": 21
     },
     {
       "file": "all_youtube_live.m3u",
@@ -34,11 +34,11 @@
     },
     {
       "file": "all_live.m3u",
-      "entries": 108
+      "entries": 107
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 80
+      "entries": 81
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 65
+      "entries": 64
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Chanakyaa",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -187,7 +187,7 @@
       "name": "Pattampoochi",
       "region": "Tamil",
       "group": "Kids",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "ChuChuTV Tamil",
@@ -637,7 +637,7 @@
       "name": "PBS NewsHour",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Fox News",
@@ -703,7 +703,7 @@
       "name": "MLB",
       "region": "US",
       "group": "Sports",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "ESPN",
@@ -907,7 +907,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Isai Aruvi",
@@ -925,7 +925,7 @@
       "name": "Kalaignar Murasu",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Kalaignar Seithigal",
@@ -1195,7 +1195,7 @@
       "name": "Sooriyan TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Star Tamil Television",
@@ -1347,22 +1347,22 @@
       "inclusion": 46
     },
     "codes": {
-      "other_extraction_error": 15
+      "other_extraction_error": 13
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-15T00:38:17.182116+00:00",
+    "generated_at_utc": "2026-10-15T07:35:44.535824+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
         "status": "ok",
-        "entries": 31570
+        "entries": 31587
       },
       {
         "id": "iptv_org_feeds",
         "status": "ok",
-        "entries": 45168
+        "entries": 45186
       },
       {
         "id": "iptv_org_tamil",
@@ -1377,14 +1377,14 @@
     ],
     "candidate_channels": 95,
     "candidate_streams": 97,
-    "included": 65,
-    "omitted": 30,
+    "included": 64,
+    "omitted": 31,
     "reasons": {
-      "http_error": 5,
-      "included": 65,
+      "http_error": 6,
+      "included": 64,
       "network_error": 8,
       "no_accessible_variant": 17
     },
-    "added_to_all_live": 58
+    "added_to_all_live": 57
   }
 }
