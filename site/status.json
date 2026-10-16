@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-16T11:34:12.871182+00:00",
+  "generated_at_utc": "2026-10-16T16:47:36.069022+00:00",
   "youtube_entries": 46,
   "direct_entries": 4,
   "community_entries": 63,
@@ -14,11 +14,11 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 10
+      "entries": 9
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 12
+      "entries": 13
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -241,7 +241,7 @@
       "name": "DD Tamil",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Vendhar TV",
@@ -505,7 +505,7 @@
       "name": "ITV News",
       "region": "UK",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Channel 4 News",
@@ -709,7 +709,7 @@
       "name": "ESPN",
       "region": "US",
       "group": "Sports",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "WWE",
@@ -955,7 +955,7 @@
       "name": "MK Six",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "M Nadu TV",
@@ -1087,7 +1087,7 @@
       "name": "OM TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Oli TV",
@@ -1135,13 +1135,13 @@
       "name": "Raj Musix Tamil",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Raj TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "SVBC 2",
@@ -1353,12 +1353,12 @@
       "inclusion": 46
     },
     "codes": {
-      "other_extraction_error": 14
+      "other_extraction_error": 13
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-16T11:35:21.006172+00:00",
+    "generated_at_utc": "2026-10-16T16:48:49.623650+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1388,8 +1388,8 @@
     "reasons": {
       "http_error": 8,
       "included": 63,
-      "network_error": 7,
-      "no_accessible_variant": 18
+      "network_error": 8,
+      "no_accessible_variant": 17
     },
     "added_to_all_live": 57
   }
