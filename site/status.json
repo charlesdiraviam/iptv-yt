@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-16T16:47:36.069022+00:00",
+  "generated_at_utc": "2026-10-16T21:19:25.217687+00:00",
   "youtube_entries": 46,
   "direct_entries": 4,
-  "community_entries": 63,
+  "community_entries": 62,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 19
+      "entries": 16
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -14,19 +14,19 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 9
+      "entries": 10
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 13
+      "entries": 15
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 24
+      "entries": 21
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 22
+      "entries": 25
     },
     {
       "file": "all_youtube_live.m3u",
@@ -34,11 +34,11 @@
     },
     {
       "file": "all_live.m3u",
-      "entries": 107
+      "entries": 106
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 80
+      "entries": 76
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 63
+      "entries": 62
     }
   ],
   "legacy_playlists": [],
@@ -157,7 +157,7 @@
       "name": "Sun News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "live_but_no_accessible_hls"
     },
     {
       "name": "ABP Nadu",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -241,7 +241,7 @@
       "name": "DD Tamil",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Vendhar TV",
@@ -505,7 +505,7 @@
       "name": "ITV News",
       "region": "UK",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Channel 4 News",
@@ -613,7 +613,7 @@
       "name": "CBS News",
       "region": "US",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "LiveNOW from FOX",
@@ -637,13 +637,13 @@
       "name": "PBS NewsHour",
       "region": "US",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Fox News",
       "region": "US",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "NASA",
@@ -709,7 +709,7 @@
       "name": "ESPN",
       "region": "US",
       "group": "Sports",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "WWE",
@@ -949,7 +949,7 @@
       "name": "Life TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "MK Six",
@@ -1141,7 +1141,7 @@
       "name": "Raj TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "SVBC 2",
@@ -1273,7 +1273,7 @@
       "name": "Thendral TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Travelxp",
@@ -1345,20 +1345,23 @@
   "youtube_diagnostics": {
     "statuses": {
       "included": 46,
-      "no_current_live_broadcast": 57,
+      "live_but_no_accessible_hls": 1,
+      "no_current_live_broadcast": 56,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
+      "download_error": 1,
       "inclusion": 46
     },
     "codes": {
-      "other_extraction_error": 13
+      "bot_verification_required": 1,
+      "other_extraction_error": 17
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-16T16:48:49.623650+00:00",
+    "generated_at_utc": "2026-10-16T21:20:37.795705+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1383,14 +1386,14 @@
     ],
     "candidate_channels": 96,
     "candidate_streams": 99,
-    "included": 63,
-    "omitted": 33,
+    "included": 62,
+    "omitted": 34,
     "reasons": {
-      "http_error": 8,
-      "included": 63,
-      "network_error": 8,
-      "no_accessible_variant": 17
+      "http_error": 9,
+      "included": 62,
+      "network_error": 7,
+      "no_accessible_variant": 18
     },
-    "added_to_all_live": 57
+    "added_to_all_live": 56
   }
 }
