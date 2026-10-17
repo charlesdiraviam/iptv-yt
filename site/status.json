@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-17T15:46:47.179201+00:00",
+  "generated_at_utc": "2026-10-17T18:36:10.324807+00:00",
   "youtube_entries": 44,
   "direct_entries": 4,
-  "community_entries": 65,
+  "community_entries": 64,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 18
+      "entries": 17
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -18,15 +18,15 @@
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 12
+      "entries": 13
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 23
+      "entries": 22
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 21
+      "entries": 22
     },
     {
       "file": "all_youtube_live.m3u",
@@ -38,7 +38,7 @@
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 80
+      "entries": 79
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 65
+      "entries": 64
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -643,7 +643,7 @@
       "name": "Fox News",
       "region": "US",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "NASA",
@@ -1105,7 +1105,7 @@
       "name": "Polimer News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Polimer TV",
@@ -1350,15 +1350,17 @@
     },
     "stages": {
       "listing": 103,
+      "download_error": 1,
       "inclusion": 44
     },
     "codes": {
-      "other_extraction_error": 16
+      "bot_verification_required": 1,
+      "other_extraction_error": 14
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-17T15:48:01.294967+00:00",
+    "generated_at_utc": "2026-10-17T18:37:27.464190+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1383,13 +1385,13 @@
     ],
     "candidate_channels": 96,
     "candidate_streams": 99,
-    "included": 65,
-    "omitted": 31,
+    "included": 64,
+    "omitted": 32,
     "reasons": {
       "http_error": 6,
-      "included": 65,
+      "included": 64,
       "network_error": 7,
-      "no_accessible_variant": 18
+      "no_accessible_variant": 19
     },
     "added_to_all_live": 58
   }
