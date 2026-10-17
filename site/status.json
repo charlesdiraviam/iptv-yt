@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-17T12:17:45.512116+00:00",
-  "youtube_entries": 45,
+  "generated_at_utc": "2026-10-17T15:46:47.179201+00:00",
+  "youtube_entries": 44,
   "direct_entries": 4,
-  "community_entries": 63,
+  "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 19
+      "entries": 18
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -22,7 +22,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 24
+      "entries": 23
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 45
+      "entries": 44
     },
     {
       "file": "all_live.m3u",
-      "entries": 104
+      "entries": 106
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 78
+      "entries": 80
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 63
+      "entries": 65
     }
   ],
   "legacy_playlists": [],
@@ -229,7 +229,7 @@
       "name": "Jaya TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "live_but_no_accessible_hls"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Raj Television",
@@ -253,7 +253,7 @@
       "name": "Puthuyugam TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Peppers TV",
@@ -895,7 +895,7 @@
       "name": "Hosanna TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "IBC Bakthi",
@@ -1093,7 +1093,7 @@
       "name": "Oli TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Peppers TV",
@@ -1344,24 +1344,21 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 45,
-      "live_but_no_accessible_hls": 1,
-      "no_current_live_broadcast": 57,
+      "included": 44,
+      "no_current_live_broadcast": 59,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "download_error": 1,
-      "inclusion": 45
+      "inclusion": 44
     },
     "codes": {
-      "bot_verification_required": 1,
-      "other_extraction_error": 17
+      "other_extraction_error": 16
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-17T12:18:59.802603+00:00",
+    "generated_at_utc": "2026-10-17T15:48:01.294967+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1386,14 +1383,14 @@
     ],
     "candidate_channels": 96,
     "candidate_streams": 99,
-    "included": 63,
-    "omitted": 33,
+    "included": 65,
+    "omitted": 31,
     "reasons": {
-      "http_error": 7,
-      "included": 63,
-      "network_error": 8,
+      "http_error": 6,
+      "included": 65,
+      "network_error": 7,
       "no_accessible_variant": 18
     },
-    "added_to_all_live": 55
+    "added_to_all_live": 58
   }
 }
