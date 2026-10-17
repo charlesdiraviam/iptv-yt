@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-17T18:36:10.324807+00:00",
+  "generated_at_utc": "2026-10-17T22:27:21.098569+00:00",
   "youtube_entries": 44,
   "direct_entries": 4,
-  "community_entries": 64,
+  "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 64
+      "entries": 65
     }
   ],
   "legacy_playlists": [],
@@ -1105,7 +1105,7 @@
       "name": "Polimer News",
       "region": "Tamil",
       "group": "News",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Polimer TV",
@@ -1350,17 +1350,17 @@
     },
     "stages": {
       "listing": 103,
-      "download_error": 1,
+      "download_error": 2,
       "inclusion": 44
     },
     "codes": {
-      "bot_verification_required": 1,
-      "other_extraction_error": 14
+      "bot_verification_required": 2,
+      "other_extraction_error": 17
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-17T18:37:27.464190+00:00",
+    "generated_at_utc": "2026-10-17T22:28:32.491530+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1385,13 +1385,13 @@
     ],
     "candidate_channels": 96,
     "candidate_streams": 99,
-    "included": 64,
-    "omitted": 32,
+    "included": 65,
+    "omitted": 31,
     "reasons": {
       "http_error": 6,
-      "included": 64,
+      "included": 65,
       "network_error": 7,
-      "no_accessible_variant": 19
+      "no_accessible_variant": 18
     },
     "added_to_all_live": 58
   }
