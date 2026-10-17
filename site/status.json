@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-16T21:19:25.217687+00:00",
-  "youtube_entries": 46,
+  "generated_at_utc": "2026-10-17T00:35:22.290735+00:00",
+  "youtube_entries": 43,
   "direct_entries": 4,
-  "community_entries": 62,
+  "community_entries": 61,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 16
+      "entries": 17
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -14,27 +14,27 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 10
+      "entries": 9
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 15
+      "entries": 12
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 21
+      "entries": 22
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 25
+      "entries": 21
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 46
+      "entries": 43
     },
     {
       "file": "all_live.m3u",
-      "entries": 106
+      "entries": 102
     },
     {
       "file": "tamil_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 62
+      "entries": 61
     }
   ],
   "legacy_playlists": [],
@@ -157,7 +157,7 @@
       "name": "Sun News",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "included"
     },
     {
       "name": "ABP Nadu",
@@ -505,7 +505,7 @@
       "name": "ITV News",
       "region": "UK",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Channel 4 News",
@@ -613,7 +613,7 @@
       "name": "CBS News",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "LiveNOW from FOX",
@@ -637,13 +637,13 @@
       "name": "PBS NewsHour",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Fox News",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "NASA",
@@ -913,7 +913,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Isai Aruvi",
@@ -1344,24 +1344,21 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 46,
-      "live_but_no_accessible_hls": 1,
-      "no_current_live_broadcast": 56,
+      "included": 43,
+      "no_current_live_broadcast": 60,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "download_error": 1,
-      "inclusion": 46
+      "inclusion": 43
     },
     "codes": {
-      "bot_verification_required": 1,
-      "other_extraction_error": 17
+      "other_extraction_error": 15
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-16T21:20:37.795705+00:00",
+    "generated_at_utc": "2026-10-17T00:36:32.647300+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1386,14 +1383,14 @@
     ],
     "candidate_channels": 96,
     "candidate_streams": 99,
-    "included": 62,
-    "omitted": 34,
+    "included": 61,
+    "omitted": 35,
     "reasons": {
       "http_error": 9,
-      "included": 62,
+      "included": 61,
       "network_error": 7,
-      "no_accessible_variant": 18
+      "no_accessible_variant": 19
     },
-    "added_to_all_live": 56
+    "added_to_all_live": 55
   }
 }
