@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-17T07:11:16.664828+00:00",
-  "youtube_entries": 46,
+  "generated_at_utc": "2026-10-17T12:17:45.512116+00:00",
+  "youtube_entries": 45,
   "direct_entries": 4,
   "community_entries": 63,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 20
+      "entries": 19
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -22,7 +22,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 25
+      "entries": 24
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 46
+      "entries": 45
     },
     {
       "file": "all_live.m3u",
-      "entries": 106
+      "entries": 104
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 80
+      "entries": 78
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Chanakyaa",
@@ -229,7 +229,7 @@
       "name": "Jaya TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "no_current_live_broadcast"
+      "status": "live_but_no_accessible_hls"
     },
     {
       "name": "Raj Television",
@@ -1093,7 +1093,7 @@
       "name": "Oli TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Peppers TV",
@@ -1105,7 +1105,7 @@
       "name": "Polimer News",
       "region": "Tamil",
       "group": "News",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Polimer TV",
@@ -1344,21 +1344,24 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 46,
+      "included": 45,
+      "live_but_no_accessible_hls": 1,
       "no_current_live_broadcast": 57,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 46
+      "download_error": 1,
+      "inclusion": 45
     },
     "codes": {
-      "other_extraction_error": 18
+      "bot_verification_required": 1,
+      "other_extraction_error": 17
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-17T07:12:26.162062+00:00",
+    "generated_at_utc": "2026-10-17T12:18:59.802603+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1391,6 +1394,6 @@
       "network_error": 8,
       "no_accessible_variant": 18
     },
-    "added_to_all_live": 56
+    "added_to_all_live": 55
   }
 }
