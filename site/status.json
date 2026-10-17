@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-17T00:35:22.290735+00:00",
-  "youtube_entries": 43,
+  "generated_at_utc": "2026-10-17T07:11:16.664828+00:00",
+  "youtube_entries": 46,
   "direct_entries": 4,
-  "community_entries": 61,
+  "community_entries": 63,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 17
+      "entries": 20
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -22,7 +22,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 22
+      "entries": 25
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 43
+      "entries": 46
     },
     {
       "file": "all_live.m3u",
-      "entries": 102
+      "entries": 106
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 76
+      "entries": 80
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 61
+      "entries": 63
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Chanakyaa",
@@ -253,7 +253,7 @@
       "name": "Puthuyugam TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Peppers TV",
@@ -895,7 +895,7 @@
       "name": "Hosanna TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "IBC Bakthi",
@@ -949,7 +949,7 @@
       "name": "Life TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "MK Six",
@@ -1135,7 +1135,7 @@
       "name": "Raj Musix Tamil",
       "region": "Tamil",
       "group": "Music",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Raj TV",
@@ -1273,7 +1273,7 @@
       "name": "Thendral TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Travelxp",
@@ -1344,31 +1344,31 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 43,
-      "no_current_live_broadcast": 60,
+      "included": 46,
+      "no_current_live_broadcast": 57,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 43
+      "inclusion": 46
     },
     "codes": {
-      "other_extraction_error": 15
+      "other_extraction_error": 18
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-17T00:36:32.647300+00:00",
+    "generated_at_utc": "2026-10-17T07:12:26.162062+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
         "status": "ok",
-        "entries": 31630
+        "entries": 31632
       },
       {
         "id": "iptv_org_feeds",
         "status": "ok",
-        "entries": 45240
+        "entries": 45242
       },
       {
         "id": "iptv_org_tamil",
@@ -1383,14 +1383,14 @@
     ],
     "candidate_channels": 96,
     "candidate_streams": 99,
-    "included": 61,
-    "omitted": 35,
+    "included": 63,
+    "omitted": 33,
     "reasons": {
-      "http_error": 9,
-      "included": 61,
-      "network_error": 7,
-      "no_accessible_variant": 19
+      "http_error": 7,
+      "included": 63,
+      "network_error": 8,
+      "no_accessible_variant": 18
     },
-    "added_to_all_live": 55
+    "added_to_all_live": 56
   }
 }
