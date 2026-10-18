@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-10-18T15:58:23.195473+00:00
+# Generated UTC: 2026-10-18T18:42:55.089344+00:00
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Aaseervatham TV
@@ -84,6 +84,8 @@ https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playl
 https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
 #EXTINF:-1 tvg-id="SairamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sairam TV
 https://mumt04.tangotv.in/m18aqlK4SAIRAMTV/index.m3u8
+#EXTINF:-1 tvg-id="SanaPlus.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Sana Plus
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="SanaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sana TV
 https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
 #EXTINF:-1 tvg-id="SankaraTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sankara TV
