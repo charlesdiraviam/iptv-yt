@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-17T22:27:21.098569+00:00",
-  "youtube_entries": 44,
+  "generated_at_utc": "2026-10-18T04:43:29.955191+00:00",
+  "youtube_entries": 45,
   "direct_entries": 4,
   "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 17
+      "entries": 18
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -22,7 +22,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 22
+      "entries": 23
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,7 +30,7 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 44
+      "entries": 45
     },
     {
       "file": "all_live.m3u",
@@ -253,7 +253,7 @@
       "name": "Puthuyugam TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Peppers TV",
@@ -643,7 +643,7 @@
       "name": "Fox News",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "NASA",
@@ -709,7 +709,7 @@
       "name": "ESPN",
       "region": "US",
       "group": "Sports",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "WWE",
@@ -913,7 +913,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Isai Aruvi",
@@ -1087,7 +1087,7 @@
       "name": "OM TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Oli TV",
@@ -1222,6 +1222,12 @@
       "status": "included"
     },
     {
+      "name": "Sun TV",
+      "region": "Tamil",
+      "group": "Entertainment",
+      "status": "omitted"
+    },
+    {
       "name": "Suriya TV",
       "region": "Tamil",
       "group": "Entertainment",
@@ -1344,38 +1350,38 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 44,
-      "no_current_live_broadcast": 59,
+      "included": 45,
+      "no_current_live_broadcast": 58,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "download_error": 2,
-      "inclusion": 44
+      "download_error": 1,
+      "inclusion": 45
     },
     "codes": {
-      "bot_verification_required": 2,
-      "other_extraction_error": 17
+      "bot_verification_required": 1,
+      "other_extraction_error": 15
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-17T22:28:32.491530+00:00",
+    "generated_at_utc": "2026-10-18T04:44:35.558324+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
         "status": "ok",
-        "entries": 31632
+        "entries": 31634
       },
       {
         "id": "iptv_org_feeds",
         "status": "ok",
-        "entries": 45242
+        "entries": 45244
       },
       {
         "id": "iptv_org_tamil",
         "status": "ok",
-        "entries": 128
+        "entries": 129
       },
       {
         "id": "free_tv",
@@ -1383,16 +1389,16 @@
         "entries": 2023
       }
     ],
-    "candidate_channels": 96,
-    "candidate_streams": 99,
+    "candidate_channels": 97,
+    "candidate_streams": 101,
     "included": 65,
-    "omitted": 31,
+    "omitted": 32,
     "reasons": {
-      "http_error": 6,
+      "http_error": 7,
       "included": 65,
       "network_error": 7,
       "no_accessible_variant": 18
     },
-    "added_to_all_live": 58
+    "added_to_all_live": 57
   }
 }
