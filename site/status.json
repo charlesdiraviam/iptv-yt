@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-18T11:18:06.415376+00:00",
-  "youtube_entries": 45,
+  "generated_at_utc": "2026-10-18T15:58:23.195473+00:00",
+  "youtube_entries": 42,
   "direct_entries": 4,
-  "community_entries": 66,
+  "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 19
+      "entries": 16
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -22,7 +22,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 24
+      "entries": 21
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 45
+      "entries": 42
     },
     {
       "file": "all_live.m3u",
-      "entries": 108
+      "entries": 104
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 82
+      "entries": 78
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 66
+      "entries": 65
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Chanakyaa",
@@ -163,7 +163,7 @@
       "name": "ABP Nadu",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "live_but_no_accessible_hls"
     },
     {
       "name": "News7 Tamil",
@@ -1165,7 +1165,7 @@
       "name": "Sana Plus",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Sana TV",
@@ -1350,21 +1350,24 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 45,
-      "no_current_live_broadcast": 58,
+      "included": 42,
+      "live_but_no_accessible_hls": 1,
+      "no_current_live_broadcast": 60,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 45
+      "download_error": 1,
+      "inclusion": 42
     },
     "codes": {
+      "bot_verification_required": 1,
       "other_extraction_error": 15
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-18T11:19:12.520393+00:00",
+    "generated_at_utc": "2026-10-18T15:59:34.568276+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1389,14 +1392,14 @@
     ],
     "candidate_channels": 97,
     "candidate_streams": 101,
-    "included": 66,
-    "omitted": 31,
+    "included": 65,
+    "omitted": 32,
     "reasons": {
-      "http_error": 6,
-      "included": 66,
+      "http_error": 7,
+      "included": 65,
       "network_error": 7,
       "no_accessible_variant": 18
     },
-    "added_to_all_live": 59
+    "added_to_all_live": 58
   }
 }
