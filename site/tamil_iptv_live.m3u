@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-10-18T04:43:29.955191+00:00
+# Generated UTC: 2026-10-18T11:18:06.415376+00:00
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Aaseervatham TV
@@ -62,6 +62,8 @@ https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://galaxyott.live/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="News7Tamil.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",News 7 Tamil
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+#EXTINF:-1 tvg-id="OMTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",OM TV
+https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 #EXTINF:-1 tvg-id="OliTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Oli TV
 https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="PolimerNews.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Polimer News

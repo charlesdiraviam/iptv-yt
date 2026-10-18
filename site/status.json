@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-18T04:43:29.955191+00:00",
+  "generated_at_utc": "2026-10-18T11:18:06.415376+00:00",
   "youtube_entries": 45,
   "direct_entries": 4,
-  "community_entries": 65,
+  "community_entries": 66,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 18
+      "entries": 19
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -18,15 +18,15 @@
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 13
+      "entries": 12
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 23
+      "entries": 24
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 22
+      "entries": 21
     },
     {
       "file": "all_youtube_live.m3u",
@@ -34,11 +34,11 @@
     },
     {
       "file": "all_live.m3u",
-      "entries": 106
+      "entries": 108
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 79
+      "entries": 82
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 65
+      "entries": 66
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Chanakyaa",
@@ -253,7 +253,7 @@
       "name": "Puthuyugam TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Peppers TV",
@@ -709,7 +709,7 @@
       "name": "ESPN",
       "region": "US",
       "group": "Sports",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "WWE",
@@ -1087,7 +1087,7 @@
       "name": "OM TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Oli TV",
@@ -1356,17 +1356,15 @@
     },
     "stages": {
       "listing": 103,
-      "download_error": 1,
       "inclusion": 45
     },
     "codes": {
-      "bot_verification_required": 1,
       "other_extraction_error": 15
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-18T04:44:35.558324+00:00",
+    "generated_at_utc": "2026-10-18T11:19:12.520393+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1391,14 +1389,14 @@
     ],
     "candidate_channels": 97,
     "candidate_streams": 101,
-    "included": 65,
-    "omitted": 32,
+    "included": 66,
+    "omitted": 31,
     "reasons": {
-      "http_error": 7,
-      "included": 65,
+      "http_error": 6,
+      "included": 66,
       "network_error": 7,
       "no_accessible_variant": 18
     },
-    "added_to_all_live": 57
+    "added_to_all_live": 59
   }
 }
