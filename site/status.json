@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-19T13:29:58.828580+00:00",
-  "youtube_entries": 43,
+  "generated_at_utc": "2026-10-19T20:01:51.138745+00:00",
+  "youtube_entries": 44,
   "direct_entries": 4,
-  "community_entries": 65,
+  "community_entries": 64,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
@@ -18,7 +18,7 @@
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 13
+      "entries": 14
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
@@ -26,15 +26,15 @@
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 21
+      "entries": 22
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 43
+      "entries": 44
     },
     {
       "file": "all_live.m3u",
-      "entries": 104
+      "entries": 105
     },
     {
       "file": "tamil_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 65
+      "entries": 64
     }
   ],
   "legacy_playlists": [],
@@ -691,7 +691,7 @@
       "name": "NBA",
       "region": "US",
       "group": "Sports",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "NFL",
@@ -913,7 +913,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Isai Aruvi",
@@ -937,7 +937,7 @@
       "name": "Kalaignar Seithigal",
       "region": "Tamil",
       "group": "News",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Kalaignar TV",
@@ -1063,7 +1063,7 @@
       "name": "News18 Tamil Nadu",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "News 7 Tamil",
@@ -1201,7 +1201,7 @@
       "name": "Sooriyan TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Star Tamil Television",
@@ -1279,7 +1279,7 @@
       "name": "Thendral TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Travelxp",
@@ -1350,31 +1350,33 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 43,
-      "no_current_live_broadcast": 60,
+      "included": 44,
+      "no_current_live_broadcast": 59,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 43
+      "download_error": 1,
+      "inclusion": 44
     },
     "codes": {
+      "bot_verification_required": 1,
       "other_extraction_error": 16
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-19T13:31:07.341846+00:00",
+    "generated_at_utc": "2026-10-19T20:03:03.009729+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
         "status": "ok",
-        "entries": 31680
+        "entries": 31681
       },
       {
         "id": "iptv_org_feeds",
         "status": "ok",
-        "entries": 45309
+        "entries": 45310
       },
       {
         "id": "iptv_org_tamil",
@@ -1384,18 +1386,18 @@
       {
         "id": "free_tv",
         "status": "ok",
-        "entries": 2023
+        "entries": 2024
       }
     ],
     "candidate_channels": 97,
     "candidate_streams": 101,
-    "included": 65,
-    "omitted": 32,
+    "included": 64,
+    "omitted": 33,
     "reasons": {
       "http_error": 7,
-      "included": 65,
+      "included": 64,
       "network_error": 7,
-      "no_accessible_variant": 18
+      "no_accessible_variant": 19
     },
     "added_to_all_live": 57
   }
