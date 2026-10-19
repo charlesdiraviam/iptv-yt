@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-10-19T04:51:53.906012+00:00
+# Generated UTC: 2026-10-19T13:29:58.828580+00:00
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Aaseervatham TV
@@ -24,14 +24,10 @@ https://eu.streamjo.com/eetlive/eettv.m3u8
 https://account20.livebox.co.in/charleshls/live.m3u8
 #EXTINF:-1 tvg-id="HosannaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Hosanna TV
 https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ImaiTV.lk" tvg-language="Tamil" tvg-country="LK" group-title="Tamil Entertainment",Imai TV
-https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Isai Aruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Kalaignar Murasu
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
-#EXTINF:-1 tvg-id="KalaignarSeithigal.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Kalaignar Seithigal
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8
 #EXTINF:-1 tvg-id="KalaignarTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Kalaignar TV
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Life TV
@@ -60,6 +56,8 @@ https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01
 https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
 #EXTINF:-1 tvg-id="NTCTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",NTC TV
 https://galaxyott.live/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="News18TamilNadu.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",News18 Tamil Nadu
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News7Tamil.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",News 7 Tamil
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 tvg-id="OMTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",OM TV

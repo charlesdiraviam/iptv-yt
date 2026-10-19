@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-19T04:51:53.906012+00:00",
-  "youtube_entries": 45,
+  "generated_at_utc": "2026-10-19T13:29:58.828580+00:00",
+  "youtube_entries": 43,
   "direct_entries": 4,
-  "community_entries": 66,
+  "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 19
+      "entries": 17
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -14,15 +14,15 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 9
+      "entries": 8
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 12
+      "entries": 13
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 24
+      "entries": 22
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 45
+      "entries": 43
     },
     {
       "file": "all_live.m3u",
-      "entries": 108
+      "entries": 104
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 82
+      "entries": 78
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 66
+      "entries": 65
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Chanakyaa",
@@ -589,7 +589,7 @@
       "name": "Morph",
       "region": "UK",
       "group": "Kids",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "BBC Earth Kids",
@@ -613,7 +613,7 @@
       "name": "CBS News",
       "region": "US",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "LiveNOW from FOX",
@@ -913,7 +913,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Isai Aruvi",
@@ -937,7 +937,7 @@
       "name": "Kalaignar Seithigal",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Kalaignar TV",
@@ -1063,7 +1063,7 @@
       "name": "News18 Tamil Nadu",
       "region": "Tamil",
       "group": "News",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "News 7 Tamil",
@@ -1350,31 +1350,31 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 45,
-      "no_current_live_broadcast": 58,
+      "included": 43,
+      "no_current_live_broadcast": 60,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 45
+      "inclusion": 43
     },
     "codes": {
-      "other_extraction_error": 13
+      "other_extraction_error": 16
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-19T04:53:05.192710+00:00",
+    "generated_at_utc": "2026-10-19T13:31:07.341846+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
         "status": "ok",
-        "entries": 31634
+        "entries": 31680
       },
       {
         "id": "iptv_org_feeds",
         "status": "ok",
-        "entries": 45244
+        "entries": 45309
       },
       {
         "id": "iptv_org_tamil",
@@ -1389,14 +1389,14 @@
     ],
     "candidate_channels": 97,
     "candidate_streams": 101,
-    "included": 66,
-    "omitted": 31,
+    "included": 65,
+    "omitted": 32,
     "reasons": {
-      "http_error": 6,
-      "included": 66,
+      "http_error": 7,
+      "included": 65,
       "network_error": 7,
       "no_accessible_variant": 18
     },
-    "added_to_all_live": 59
+    "added_to_all_live": 57
   }
 }
