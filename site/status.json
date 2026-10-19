@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-19T20:01:51.138745+00:00",
+  "generated_at_utc": "2026-10-19T23:48:41.938877+00:00",
   "youtube_entries": 44,
   "direct_entries": 4,
   "community_entries": 64,
@@ -613,7 +613,7 @@
       "name": "CBS News",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "LiveNOW from FOX",
@@ -637,7 +637,7 @@
       "name": "PBS NewsHour",
       "region": "US",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Fox News",
@@ -1147,7 +1147,7 @@
       "name": "SVBC 2",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Sai TV",
@@ -1201,7 +1201,7 @@
       "name": "Sooriyan TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Star Tamil Television",
@@ -1356,17 +1356,15 @@
     },
     "stages": {
       "listing": 103,
-      "download_error": 1,
       "inclusion": 44
     },
     "codes": {
-      "bot_verification_required": 1,
-      "other_extraction_error": 16
+      "other_extraction_error": 14
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-19T20:03:03.009729+00:00",
+    "generated_at_utc": "2026-10-19T23:50:00.623946+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1396,8 +1394,8 @@
     "reasons": {
       "http_error": 7,
       "included": 64,
-      "network_error": 7,
-      "no_accessible_variant": 19
+      "network_error": 8,
+      "no_accessible_variant": 18
     },
     "added_to_all_live": 57
   }
