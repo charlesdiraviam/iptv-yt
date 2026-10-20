@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-19T23:48:41.938877+00:00",
+  "generated_at_utc": "2026-10-20T05:00:08.433357+00:00",
   "youtube_entries": 44,
   "direct_entries": 4,
-  "community_entries": 64,
+  "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 17
+      "entries": 18
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -18,15 +18,15 @@
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 14
+      "entries": 13
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 22
+      "entries": 23
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 22
+      "entries": 21
     },
     {
       "file": "all_youtube_live.m3u",
@@ -38,7 +38,7 @@
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 78
+      "entries": 79
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 64
+      "entries": 65
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -637,7 +637,7 @@
       "name": "PBS NewsHour",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Fox News",
@@ -1063,7 +1063,7 @@
       "name": "News18 Tamil Nadu",
       "region": "Tamil",
       "group": "News",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "News 7 Tamil",
@@ -1093,7 +1093,7 @@
       "name": "Oli TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Peppers TV",
@@ -1147,13 +1147,13 @@
       "name": "SVBC 2",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Sai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Sairam TV",
@@ -1279,7 +1279,7 @@
       "name": "Thendral TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Travelxp",
@@ -1359,22 +1359,22 @@
       "inclusion": 44
     },
     "codes": {
-      "other_extraction_error": 14
+      "other_extraction_error": 13
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-19T23:50:00.623946+00:00",
+    "generated_at_utc": "2026-10-20T05:01:28.135899+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
         "status": "ok",
-        "entries": 31681
+        "entries": 31644
       },
       {
         "id": "iptv_org_feeds",
         "status": "ok",
-        "entries": 45310
+        "entries": 45252
       },
       {
         "id": "iptv_org_tamil",
@@ -1389,13 +1389,13 @@
     ],
     "candidate_channels": 97,
     "candidate_streams": 101,
-    "included": 64,
-    "omitted": 33,
+    "included": 65,
+    "omitted": 32,
     "reasons": {
-      "http_error": 7,
-      "included": 64,
+      "http_error": 8,
+      "included": 65,
       "network_error": 8,
-      "no_accessible_variant": 18
+      "no_accessible_variant": 16
     },
     "added_to_all_live": 57
   }
