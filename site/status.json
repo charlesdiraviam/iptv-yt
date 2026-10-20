@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-20T11:48:56.458961+00:00",
-  "youtube_entries": 46,
+  "generated_at_utc": "2026-10-20T17:17:43.027176+00:00",
+  "youtube_entries": 44,
   "direct_entries": 4,
-  "community_entries": 65,
+  "community_entries": 66,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 20
+      "entries": 18
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -14,15 +14,15 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 8
+      "entries": 9
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 13
+      "entries": 12
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 25
+      "entries": 23
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 46
+      "entries": 44
     },
     {
       "file": "all_live.m3u",
-      "entries": 107
+      "entries": 105
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 81
+      "entries": 79
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 65
+      "entries": 66
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Chanakyaa",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -253,7 +253,7 @@
       "name": "Puthuyugam TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Peppers TV",
@@ -535,7 +535,7 @@
       "name": "BBC Radio 1",
       "region": "UK",
       "group": "Music",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "NTS Radio",
@@ -601,7 +601,7 @@
       "name": "NBC News",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "live_but_no_accessible_hls"
     },
     {
       "name": "ABC News",
@@ -913,7 +913,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Isai Aruvi",
@@ -1350,21 +1350,24 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 46,
-      "no_current_live_broadcast": 57,
+      "included": 44,
+      "live_but_no_accessible_hls": 1,
+      "no_current_live_broadcast": 58,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 46
+      "download_error": 1,
+      "inclusion": 44
     },
     "codes": {
-      "other_extraction_error": 15
+      "bot_verification_required": 1,
+      "other_extraction_error": 16
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-20T11:50:03.827122+00:00",
+    "generated_at_utc": "2026-10-20T17:18:56.100098+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1389,11 +1392,11 @@
     ],
     "candidate_channels": 97,
     "candidate_streams": 101,
-    "included": 65,
-    "omitted": 32,
+    "included": 66,
+    "omitted": 31,
     "reasons": {
-      "http_error": 8,
-      "included": 65,
+      "http_error": 7,
+      "included": 66,
       "network_error": 7,
       "no_accessible_variant": 17
     },
