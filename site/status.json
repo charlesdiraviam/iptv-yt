@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-20T05:00:08.433357+00:00",
-  "youtube_entries": 44,
+  "generated_at_utc": "2026-10-20T11:48:56.458961+00:00",
+  "youtube_entries": 46,
   "direct_entries": 4,
   "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 18
+      "entries": 20
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -22,7 +22,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 23
+      "entries": 25
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 44
+      "entries": 46
     },
     {
       "file": "all_live.m3u",
-      "entries": 105
+      "entries": 107
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 79
+      "entries": 81
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Chanakyaa",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -913,7 +913,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Isai Aruvi",
@@ -1153,7 +1153,7 @@
       "name": "Sai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Sairam TV",
@@ -1350,21 +1350,21 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 44,
-      "no_current_live_broadcast": 59,
+      "included": 46,
+      "no_current_live_broadcast": 57,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 44
+      "inclusion": 46
     },
     "codes": {
-      "other_extraction_error": 13
+      "other_extraction_error": 15
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-20T05:01:28.135899+00:00",
+    "generated_at_utc": "2026-10-20T11:50:03.827122+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1394,8 +1394,8 @@
     "reasons": {
       "http_error": 8,
       "included": 65,
-      "network_error": 8,
-      "no_accessible_variant": 16
+      "network_error": 7,
+      "no_accessible_variant": 17
     },
     "added_to_all_live": 57
   }
