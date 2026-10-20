@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-20T17:17:43.027176+00:00",
-  "youtube_entries": 44,
+  "generated_at_utc": "2026-10-20T21:44:03.340446+00:00",
+  "youtube_entries": 41,
   "direct_entries": 4,
-  "community_entries": 66,
+  "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 18
+      "entries": 17
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -14,7 +14,7 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 9
+      "entries": 7
     },
     {
       "file": "us_youtube_live.m3u",
@@ -22,19 +22,19 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 23
+      "entries": 22
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 21
+      "entries": 19
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 44
+      "entries": 41
     },
     {
       "file": "all_live.m3u",
-      "entries": 105
+      "entries": 103
     },
     {
       "file": "tamil_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 66
+      "entries": 65
     }
   ],
   "legacy_playlists": [],
@@ -253,7 +253,7 @@
       "name": "Puthuyugam TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Peppers TV",
@@ -487,7 +487,7 @@
       "name": "BBC News",
       "region": "UK",
       "group": "News",
-      "status": "included"
+      "status": "live_but_no_accessible_hls"
     },
     {
       "name": "GB News",
@@ -535,7 +535,7 @@
       "name": "BBC Radio 1",
       "region": "UK",
       "group": "Music",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "NTS Radio",
@@ -601,7 +601,7 @@
       "name": "NBC News",
       "region": "US",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "included"
     },
     {
       "name": "ABC News",
@@ -691,7 +691,7 @@
       "name": "NBA",
       "region": "US",
       "group": "Sports",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "NFL",
@@ -889,7 +889,7 @@
       "name": "Hebron TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Hosanna TV",
@@ -1063,7 +1063,7 @@
       "name": "News18 Tamil Nadu",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "News 7 Tamil",
@@ -1093,7 +1093,7 @@
       "name": "Oli TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Peppers TV",
@@ -1350,24 +1350,24 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 44,
+      "included": 41,
       "live_but_no_accessible_hls": 1,
-      "no_current_live_broadcast": 58,
+      "no_current_live_broadcast": 61,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
       "download_error": 1,
-      "inclusion": 44
+      "inclusion": 41
     },
     "codes": {
       "bot_verification_required": 1,
-      "other_extraction_error": 16
+      "other_extraction_error": 19
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-20T17:18:56.100098+00:00",
+    "generated_at_utc": "2026-10-20T21:45:18.051887+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1392,14 +1392,14 @@
     ],
     "candidate_channels": 97,
     "candidate_streams": 101,
-    "included": 66,
-    "omitted": 31,
+    "included": 65,
+    "omitted": 32,
     "reasons": {
       "http_error": 7,
-      "included": 66,
+      "included": 65,
       "network_error": 7,
-      "no_accessible_variant": 17
+      "no_accessible_variant": 18
     },
-    "added_to_all_live": 57
+    "added_to_all_live": 58
   }
 }
