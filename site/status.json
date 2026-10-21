@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-21T18:44:57.474638+00:00",
+  "generated_at_utc": "2026-10-21T23:27:58.402658+00:00",
   "youtube_entries": 44,
   "direct_entries": 4,
-  "community_entries": 63,
+  "community_entries": 64,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
@@ -14,11 +14,11 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 9
+      "entries": 8
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 12
+      "entries": 13
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
@@ -34,11 +34,11 @@
     },
     {
       "file": "all_live.m3u",
-      "entries": 104
+      "entries": 105
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 78
+      "entries": 79
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 63
+      "entries": 64
     }
   ],
   "legacy_playlists": [],
@@ -535,7 +535,7 @@
       "name": "BBC Radio 1",
       "region": "UK",
       "group": "Music",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "NTS Radio",
@@ -643,7 +643,7 @@
       "name": "Fox News",
       "region": "US",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "NASA",
@@ -1249,7 +1249,7 @@
       "name": "Tamilan TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Thalaa TV",
@@ -1273,7 +1273,7 @@
       "name": "Thendral TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Travelxp",
@@ -1291,7 +1291,7 @@
       "name": "Vaanavil TV",
       "region": "Tamil",
       "group": "Music",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Vasanth TV",
@@ -1353,12 +1353,12 @@
       "inclusion": 44
     },
     "codes": {
-      "other_extraction_error": 16
+      "other_extraction_error": 13
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-21T18:46:09.781828+00:00",
+    "generated_at_utc": "2026-10-21T23:29:11.520608+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1383,14 +1383,14 @@
     ],
     "candidate_channels": 96,
     "candidate_streams": 100,
-    "included": 63,
-    "omitted": 33,
+    "included": 64,
+    "omitted": 32,
     "reasons": {
-      "http_error": 9,
-      "included": 63,
+      "http_error": 8,
+      "included": 64,
       "network_error": 7,
       "no_accessible_variant": 17
     },
-    "added_to_all_live": 56
+    "added_to_all_live": 57
   }
 }
