@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-21T07:47:08.940249+00:00",
-  "youtube_entries": 46,
+  "generated_at_utc": "2026-10-21T13:55:44.740076+00:00",
+  "youtube_entries": 44,
   "direct_entries": 4,
-  "community_entries": 67,
+  "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 21
+      "entries": 19
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -22,7 +22,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 26
+      "entries": 24
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 46
+      "entries": 44
     },
     {
       "file": "all_live.m3u",
-      "entries": 109
+      "entries": 105
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 84
+      "entries": 80
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 67
+      "entries": 65
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Chanakyaa",
@@ -883,7 +883,7 @@
       "name": "Hebron TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Hosanna TV",
@@ -907,7 +907,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Isai Aruvi",
@@ -1344,21 +1344,21 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 46,
-      "no_current_live_broadcast": 57,
+      "included": 44,
+      "no_current_live_broadcast": 59,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 46
+      "inclusion": 44
     },
     "codes": {
-      "other_extraction_error": 15
+      "other_extraction_error": 13
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-21T07:48:16.524212+00:00",
+    "generated_at_utc": "2026-10-21T13:56:57.027183+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1383,14 +1383,14 @@
     ],
     "candidate_channels": 96,
     "candidate_streams": 100,
-    "included": 67,
-    "omitted": 29,
+    "included": 65,
+    "omitted": 31,
     "reasons": {
-      "http_error": 6,
-      "included": 67,
+      "http_error": 8,
+      "included": 65,
       "network_error": 7,
       "no_accessible_variant": 16
     },
-    "added_to_all_live": 59
+    "added_to_all_live": 57
   }
 }
