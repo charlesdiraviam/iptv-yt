@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-10-21T00:43:13.942797+00:00
+# Generated UTC: 2026-10-21T07:47:08.940249+00:00
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Aaseervatham TV
@@ -10,6 +10,8 @@ https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
 https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ArputharYesuTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Arputhar Yesu TV
 https://account33.livebox.co.in/jesushelpshls/live.m3u8
+#EXTINF:-1 tvg-id="BhagyamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Bhagyam TV
+https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8
 #EXTINF:-1 tvg-id="ColorsTamil.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Colors Tamil
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Sports",DD Sports
@@ -18,6 +20,8 @@ https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
 #EXTINF:-1 tvg-id="EETTV.ca" tvg-language="Tamil" tvg-country="CA" group-title="Tamil Entertainment",EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-id="HebronTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Hebron TV
+https://account20.livebox.co.in/charleshls/live.m3u8
 #EXTINF:-1 tvg-id="HosannaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Hosanna TV
 https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ImaiTV.lk" tvg-language="Tamil" tvg-country="LK" group-title="Tamil Entertainment",Imai TV
@@ -56,6 +60,8 @@ https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01
 https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
 #EXTINF:-1 tvg-id="NTCTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",NTC TV
 https://galaxyott.live/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="News18TamilNadu.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",News18 Tamil Nadu
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News7Tamil.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",News 7 Tamil
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 tvg-id="OMTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",OM TV
@@ -68,6 +74,10 @@ https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8
 #EXTINF:-1 tvg-id="PuthuyugamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Puthuyugam TV
 https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
+#EXTINF:-1 tvg-id="RajDigitalPlus.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Cinema",Raj Digital Plus
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+#EXTINF:-1 tvg-id="RajMusixTamil.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Raj Musix Tamil
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
 #EXTINF:-1 tvg-id="RajTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Raj TV
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
 #EXTINF:-1 tvg-id="SVBC2.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",SVBC 2
