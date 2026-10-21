@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-10-20T21:44:03.340446+00:00
+# Generated UTC: 2026-10-21T00:43:13.942797+00:00
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Aaseervatham TV
@@ -10,8 +10,6 @@ https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
 https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ArputharYesuTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Arputhar Yesu TV
 https://account33.livebox.co.in/jesushelpshls/live.m3u8
-#EXTINF:-1 tvg-id="BhagyamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Bhagyam TV
-https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8
 #EXTINF:-1 tvg-id="ColorsTamil.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Colors Tamil
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Sports",DD Sports
@@ -70,10 +68,6 @@ https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8
 #EXTINF:-1 tvg-id="PuthuyugamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Puthuyugam TV
 https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
-#EXTINF:-1 tvg-id="RajDigitalPlus.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Cinema",Raj Digital Plus
-https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
-#EXTINF:-1 tvg-id="RajMusixTamil.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Raj Musix Tamil
-https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
 #EXTINF:-1 tvg-id="RajTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Raj TV
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
 #EXTINF:-1 tvg-id="SVBC2.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",SVBC 2
