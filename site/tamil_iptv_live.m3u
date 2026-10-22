@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-10-22T20:37:52.137355+00:00
+# Generated UTC: 2026-10-22T21:44:30.164969+00:00
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Aaseervatham TV
@@ -74,8 +74,6 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/mas
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
 #EXTINF:-1 tvg-id="RajTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Raj TV
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8
-#EXTINF:-1 tvg-id="SVBC2.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",SVBC 2
-https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SaiTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sai TV
 https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
 #EXTINF:-1 tvg-id="SairamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sairam TV
@@ -110,8 +108,6 @@ https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
 https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ThendralTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Thendral TV
 https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
-#EXTINF:-1 tvg-id="Tunes6.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Tunes 6
-https://stream.d6-pro.com/Tunes6music/live/video.m3u8
 #EXTINF:-1 tvg-id="UltimateTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Ultimate TV
 https://stream.ottlive.co.in/utvtamil/index.m3u8
 #EXTINF:-1 tvg-id="VaanavilTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Vaanavil TV
