@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-21T23:27:58.402658+00:00",
+  "generated_at_utc": "2026-10-22T05:00:16.785140+00:00",
   "youtube_entries": 44,
   "direct_entries": 4,
-  "community_entries": 64,
+  "community_entries": 66,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 18
+      "entries": 19
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -18,15 +18,15 @@
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 13
+      "entries": 12
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 23
+      "entries": 24
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 21
+      "entries": 20
     },
     {
       "file": "all_youtube_live.m3u",
@@ -34,11 +34,11 @@
     },
     {
       "file": "all_live.m3u",
-      "entries": 105
+      "entries": 106
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 79
+      "entries": 81
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 64
+      "entries": 66
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -187,7 +187,7 @@
       "name": "Pattampoochi",
       "region": "Tamil",
       "group": "Kids",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "ChuChuTV Tamil",
@@ -643,7 +643,7 @@
       "name": "Fox News",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "NASA",
@@ -841,7 +841,7 @@
       "name": "DD Sports",
       "region": "Tamil",
       "group": "Sports",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "DD Tamil",
@@ -883,7 +883,7 @@
       "name": "Hebron TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Hosanna TV",
@@ -1057,7 +1057,7 @@
       "name": "News18 Tamil Nadu",
       "region": "Tamil",
       "group": "News",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "News 7 Tamil",
@@ -1282,6 +1282,12 @@
       "status": "omitted"
     },
     {
+      "name": "Tunes 6",
+      "region": "Tamil",
+      "group": "Music",
+      "status": "included"
+    },
+    {
       "name": "Ultimate TV",
       "region": "Tamil",
       "group": "Music",
@@ -1358,7 +1364,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-21T23:29:11.520608+00:00",
+    "generated_at_utc": "2026-10-22T05:01:31.856048+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1373,7 +1379,7 @@
       {
         "id": "iptv_org_tamil",
         "status": "ok",
-        "entries": 128
+        "entries": 129
       },
       {
         "id": "free_tv",
@@ -1381,16 +1387,16 @@
         "entries": 2024
       }
     ],
-    "candidate_channels": 96,
-    "candidate_streams": 100,
-    "included": 64,
-    "omitted": 32,
+    "candidate_channels": 97,
+    "candidate_streams": 101,
+    "included": 66,
+    "omitted": 31,
     "reasons": {
       "http_error": 8,
-      "included": 64,
-      "network_error": 7,
+      "included": 66,
+      "network_error": 6,
       "no_accessible_variant": 17
     },
-    "added_to_all_live": 57
+    "added_to_all_live": 58
   }
 }
