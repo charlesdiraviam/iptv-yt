@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-22T20:32:47.580761+00:00",
+  "generated_at_utc": "2026-10-22T20:37:52.137355+00:00",
   "youtube_entries": 42,
   "direct_entries": 4,
-  "community_entries": 63,
+  "community_entries": 64,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
@@ -34,11 +34,11 @@
     },
     {
       "file": "all_live.m3u",
-      "entries": 102
+      "entries": 103
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 77
+      "entries": 78
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 63
+      "entries": 64
     }
   ],
   "legacy_playlists": [],
@@ -1285,7 +1285,7 @@
       "name": "Tunes 6",
       "region": "Tamil",
       "group": "Music",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Ultimate TV",
@@ -1364,7 +1364,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-22T20:34:08.707965+00:00",
+    "generated_at_utc": "2026-10-22T20:38:58.957810+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1389,14 +1389,14 @@
     ],
     "candidate_channels": 97,
     "candidate_streams": 101,
-    "included": 63,
-    "omitted": 34,
+    "included": 64,
+    "omitted": 33,
     "reasons": {
       "http_error": 9,
-      "included": 63,
-      "network_error": 7,
+      "included": 64,
+      "network_error": 6,
       "no_accessible_variant": 18
     },
-    "added_to_all_live": 56
+    "added_to_all_live": 57
   }
 }
