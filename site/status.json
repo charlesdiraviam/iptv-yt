@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-23T00:45:56.634454+00:00",
-  "youtube_entries": 44,
+  "generated_at_utc": "2026-10-23T07:40:04.959143+00:00",
+  "youtube_entries": 45,
   "direct_entries": 4,
-  "community_entries": 63,
+  "community_entries": 59,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 17
+      "entries": 20
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -18,27 +18,27 @@
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 14
+      "entries": 12
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 22
+      "entries": 25
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 22
+      "entries": 20
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 44
+      "entries": 45
     },
     {
       "file": "all_live.m3u",
-      "entries": 104
+      "entries": 101
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 77
+      "entries": 76
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 63
+      "entries": 59
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Chanakyaa",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -637,13 +637,13 @@
       "name": "PBS NewsHour",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Fox News",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "NASA",
@@ -781,7 +781,7 @@
       "name": "Aaseervatham TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Aastha Tamil",
@@ -805,7 +805,7 @@
       "name": "Arputhar Yesu TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Asia TV",
@@ -883,7 +883,7 @@
       "name": "Hebron TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Hosanna TV",
@@ -907,7 +907,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Isai Aruvi",
@@ -1159,7 +1159,7 @@
       "name": "Sana Plus",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Sana TV",
@@ -1273,7 +1273,7 @@
       "name": "Thendral TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Travelxp",
@@ -1350,13 +1350,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 44,
-      "no_current_live_broadcast": 59,
+      "included": 45,
+      "no_current_live_broadcast": 58,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 44
+      "inclusion": 45
     },
     "codes": {
       "other_extraction_error": 13
@@ -1364,17 +1364,17 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-23T00:47:10.942145+00:00",
+    "generated_at_utc": "2026-10-23T07:41:18.969985+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
         "status": "ok",
-        "entries": 31645
+        "entries": 31655
       },
       {
         "id": "iptv_org_feeds",
         "status": "ok",
-        "entries": 45254
+        "entries": 45270
       },
       {
         "id": "iptv_org_tamil",
@@ -1384,19 +1384,19 @@
       {
         "id": "free_tv",
         "status": "ok",
-        "entries": 2024
+        "entries": 2041
       }
     ],
     "candidate_channels": 97,
     "candidate_streams": 101,
-    "included": 63,
-    "omitted": 34,
+    "included": 59,
+    "omitted": 38,
     "reasons": {
-      "http_error": 9,
-      "included": 63,
-      "network_error": 7,
-      "no_accessible_variant": 18
+      "http_error": 11,
+      "included": 59,
+      "network_error": 8,
+      "no_accessible_variant": 19
     },
-    "added_to_all_live": 56
+    "added_to_all_live": 52
   }
 }
