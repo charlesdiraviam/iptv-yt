@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-23T18:28:03.746792+00:00",
-  "youtube_entries": 45,
+  "generated_at_utc": "2026-10-23T23:14:22.159167+00:00",
+  "youtube_entries": 42,
   "direct_entries": 4,
-  "community_entries": 62,
+  "community_entries": 59,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
@@ -14,11 +14,11 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 9
+      "entries": 8
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 14
+      "entries": 12
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
@@ -26,19 +26,19 @@
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 23
+      "entries": 20
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 45
+      "entries": 42
     },
     {
       "file": "all_live.m3u",
-      "entries": 104
+      "entries": 98
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 76
+      "entries": 73
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 62
+      "entries": 59
     }
   ],
   "legacy_playlists": [],
@@ -505,7 +505,7 @@
       "name": "ITV News",
       "region": "UK",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Channel 4 News",
@@ -637,13 +637,13 @@
       "name": "PBS NewsHour",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Fox News",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "NASA",
@@ -907,7 +907,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Isai Aruvi",
@@ -1087,7 +1087,7 @@
       "name": "Oli TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Peppers TV",
@@ -1159,7 +1159,7 @@
       "name": "Sana Plus",
       "region": "Tamil",
       "group": "Music",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Sana TV",
@@ -1273,7 +1273,7 @@
       "name": "Thendral TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Travelxp",
@@ -1297,7 +1297,7 @@
       "name": "Vaanavil TV",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Vasanth TV",
@@ -1350,13 +1350,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 45,
-      "no_current_live_broadcast": 58,
+      "included": 42,
+      "no_current_live_broadcast": 61,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 45
+      "inclusion": 42
     },
     "codes": {
       "other_extraction_error": 13
@@ -1364,7 +1364,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-23T18:29:18.702952+00:00",
+    "generated_at_utc": "2026-10-23T23:15:40.510805+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1389,14 +1389,14 @@
     ],
     "candidate_channels": 97,
     "candidate_streams": 101,
-    "included": 62,
-    "omitted": 35,
+    "included": 59,
+    "omitted": 38,
     "reasons": {
-      "http_error": 8,
-      "included": 62,
+      "http_error": 11,
+      "included": 59,
       "network_error": 9,
       "no_accessible_variant": 18
     },
-    "added_to_all_live": 55
+    "added_to_all_live": 52
   }
 }
