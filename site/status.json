@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-23T13:34:19.735503+00:00",
-  "youtube_entries": 44,
+  "generated_at_utc": "2026-10-23T18:28:03.746792+00:00",
+  "youtube_entries": 45,
   "direct_entries": 4,
-  "community_entries": 63,
+  "community_entries": 62,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 19
+      "entries": 17
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -14,23 +14,23 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 8
+      "entries": 9
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 12
+      "entries": 14
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 24
+      "entries": 22
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 20
+      "entries": 23
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 44
+      "entries": 45
     },
     {
       "file": "all_live.m3u",
@@ -38,7 +38,7 @@
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 79
+      "entries": 76
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 63
+      "entries": 62
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Chanakyaa",
@@ -505,7 +505,7 @@
       "name": "ITV News",
       "region": "UK",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Channel 4 News",
@@ -637,13 +637,13 @@
       "name": "PBS NewsHour",
       "region": "US",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Fox News",
       "region": "US",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "NASA",
@@ -1081,7 +1081,7 @@
       "name": "OM TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Oli TV",
@@ -1195,7 +1195,7 @@
       "name": "Sooriyan TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Star Tamil Television",
@@ -1339,7 +1339,7 @@
       "name": "Zee Tamil",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Zee Tamil News",
@@ -1350,13 +1350,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 44,
-      "no_current_live_broadcast": 59,
+      "included": 45,
+      "no_current_live_broadcast": 58,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 44
+      "inclusion": 45
     },
     "codes": {
       "other_extraction_error": 13
@@ -1364,7 +1364,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-23T13:35:36.645541+00:00",
+    "generated_at_utc": "2026-10-23T18:29:18.702952+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1389,14 +1389,14 @@
     ],
     "candidate_channels": 97,
     "candidate_streams": 101,
-    "included": 63,
-    "omitted": 34,
+    "included": 62,
+    "omitted": 35,
     "reasons": {
-      "http_error": 7,
-      "included": 63,
+      "http_error": 8,
+      "included": 62,
       "network_error": 9,
       "no_accessible_variant": 18
     },
-    "added_to_all_live": 56
+    "added_to_all_live": 55
   }
 }
