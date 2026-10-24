@@ -1,16 +1,16 @@
 {
-  "generated_at_utc": "2026-10-23T23:14:22.159167+00:00",
-  "youtube_entries": 42,
-  "direct_entries": 4,
-  "community_entries": 59,
+  "generated_at_utc": "2026-10-24T04:46:19.892677+00:00",
+  "youtube_entries": 44,
+  "direct_entries": 3,
+  "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 17
+      "entries": 18
     },
     {
       "file": "australian_youtube_live.m3u",
-      "entries": 5
+      "entries": 6
     },
     {
       "file": "uk_youtube_live.m3u",
@@ -22,7 +22,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 22
+      "entries": 24
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,23 +30,23 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 42
+      "entries": 44
     },
     {
       "file": "all_live.m3u",
-      "entries": 98
+      "entries": 104
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 73
+      "entries": 78
     },
     {
       "file": "tamil_broadcaster_live.m3u",
-      "entries": 4
+      "entries": 3
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 59
+      "entries": 65
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -379,7 +379,7 @@
       "name": "Sydney Opera House",
       "region": "Australia",
       "group": "Music",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Australian Chamber Orchestra",
@@ -757,7 +757,7 @@
       "name": "IBC Tamil TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Tamil Vision HD (TVI HD)",
@@ -907,7 +907,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Isai Aruvi",
@@ -955,7 +955,7 @@
       "name": "M Nadu TV",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "MTA6 Asia",
@@ -1057,7 +1057,7 @@
       "name": "News18 Tamil Nadu",
       "region": "Tamil",
       "group": "News",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "News 7 Tamil",
@@ -1081,13 +1081,13 @@
       "name": "OM TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Oli TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Peppers TV",
@@ -1109,6 +1109,12 @@
     },
     {
       "name": "Puthiya Thalaimurai",
+      "region": "Tamil",
+      "group": "News",
+      "status": "included"
+    },
+    {
+      "name": "Puthiya Thalaimurai Express",
       "region": "Tamil",
       "group": "News",
       "status": "included"
@@ -1273,7 +1279,7 @@
       "name": "Thendral TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Travelxp",
@@ -1297,7 +1303,7 @@
       "name": "Vaanavil TV",
       "region": "Tamil",
       "group": "Music",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Vasanth TV",
@@ -1350,13 +1356,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 42,
-      "no_current_live_broadcast": 61,
+      "included": 44,
+      "no_current_live_broadcast": 59,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 42
+      "inclusion": 44
     },
     "codes": {
       "other_extraction_error": 13
@@ -1364,22 +1370,22 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-23T23:15:40.510805+00:00",
+    "generated_at_utc": "2026-10-24T04:47:38.595459+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
         "status": "ok",
-        "entries": 31655
+        "entries": 31662
       },
       {
         "id": "iptv_org_feeds",
         "status": "ok",
-        "entries": 45270
+        "entries": 45281
       },
       {
         "id": "iptv_org_tamil",
         "status": "ok",
-        "entries": 130
+        "entries": 132
       },
       {
         "id": "free_tv",
@@ -1387,16 +1393,16 @@
         "entries": 2052
       }
     ],
-    "candidate_channels": 97,
-    "candidate_streams": 101,
-    "included": 59,
-    "omitted": 38,
+    "candidate_channels": 98,
+    "candidate_streams": 102,
+    "included": 65,
+    "omitted": 33,
     "reasons": {
-      "http_error": 11,
-      "included": 59,
-      "network_error": 9,
-      "no_accessible_variant": 18
+      "http_error": 6,
+      "included": 65,
+      "network_error": 10,
+      "no_accessible_variant": 17
     },
-    "added_to_all_live": 52
+    "added_to_all_live": 57
   }
 }
