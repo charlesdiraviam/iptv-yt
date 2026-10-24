@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-24T16:04:04.448484+00:00",
+  "generated_at_utc": "2026-10-24T18:52:26.154935+00:00",
   "youtube_entries": 42,
   "direct_entries": 3,
   "community_entries": 64,
@@ -907,7 +907,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Isai Aruvi",
@@ -1345,7 +1345,7 @@
       "name": "Zee Tamil",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Zee Tamil News",
@@ -1370,7 +1370,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-24T16:05:14.618895+00:00",
+    "generated_at_utc": "2026-10-24T18:53:39.970733+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1400,8 +1400,8 @@
     "reasons": {
       "http_error": 7,
       "included": 64,
-      "network_error": 11,
-      "no_accessible_variant": 16
+      "network_error": 9,
+      "no_accessible_variant": 18
     },
     "added_to_all_live": 57
   }
