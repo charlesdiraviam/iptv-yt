@@ -1,16 +1,16 @@
 {
-  "generated_at_utc": "2026-10-24T04:46:19.892677+00:00",
+  "generated_at_utc": "2026-10-24T11:12:50.848732+00:00",
   "youtube_entries": 44,
   "direct_entries": 3,
   "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 18
+      "entries": 19
     },
     {
       "file": "australian_youtube_live.m3u",
-      "entries": 6
+      "entries": 5
     },
     {
       "file": "uk_youtube_live.m3u",
@@ -34,11 +34,11 @@
     },
     {
       "file": "all_live.m3u",
-      "entries": 104
+      "entries": 105
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 78
+      "entries": 80
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Chanakyaa",
@@ -379,7 +379,7 @@
       "name": "Sydney Opera House",
       "region": "Australia",
       "group": "Music",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Australian Chamber Orchestra",
@@ -1057,7 +1057,7 @@
       "name": "News18 Tamil Nadu",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "News 7 Tamil",
@@ -1345,7 +1345,7 @@
       "name": "Zee Tamil",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Zee Tamil News",
@@ -1370,7 +1370,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-24T04:47:38.595459+00:00",
+    "generated_at_utc": "2026-10-24T11:13:57.182783+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1400,9 +1400,9 @@
     "reasons": {
       "http_error": 6,
       "included": 65,
-      "network_error": 10,
-      "no_accessible_variant": 17
+      "network_error": 9,
+      "no_accessible_variant": 18
     },
-    "added_to_all_live": 57
+    "added_to_all_live": 58
   }
 }
