@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-24T18:52:26.154935+00:00",
-  "youtube_entries": 42,
+  "generated_at_utc": "2026-10-24T22:35:15.493069+00:00",
+  "youtube_entries": 43,
   "direct_entries": 3,
-  "community_entries": 64,
+  "community_entries": 63,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
@@ -18,7 +18,7 @@
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 12
+      "entries": 13
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
@@ -26,11 +26,11 @@
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 20
+      "entries": 21
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 42
+      "entries": 43
     },
     {
       "file": "all_live.m3u",
@@ -38,7 +38,7 @@
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 77
+      "entries": 76
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 64
+      "entries": 63
     }
   ],
   "legacy_playlists": [],
@@ -703,7 +703,7 @@
       "name": "MLB",
       "region": "US",
       "group": "Sports",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "ESPN",
@@ -1081,13 +1081,13 @@
       "name": "OM TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Oli TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Peppers TV",
@@ -1345,7 +1345,7 @@
       "name": "Zee Tamil",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Zee Tamil News",
@@ -1356,13 +1356,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 42,
-      "no_current_live_broadcast": 61,
+      "included": 43,
+      "no_current_live_broadcast": 60,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 42
+      "inclusion": 43
     },
     "codes": {
       "other_extraction_error": 13
@@ -1370,7 +1370,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-24T18:53:39.970733+00:00",
+    "generated_at_utc": "2026-10-24T22:36:27.043202+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1395,14 +1395,14 @@
     ],
     "candidate_channels": 98,
     "candidate_streams": 102,
-    "included": 64,
-    "omitted": 34,
+    "included": 63,
+    "omitted": 35,
     "reasons": {
-      "http_error": 7,
-      "included": 64,
+      "http_error": 8,
+      "included": 63,
       "network_error": 9,
       "no_accessible_variant": 18
     },
-    "added_to_all_live": 57
+    "added_to_all_live": 56
   }
 }
