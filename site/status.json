@@ -1,16 +1,16 @@
 {
-  "generated_at_utc": "2026-10-25T04:52:24.756427+00:00",
+  "generated_at_utc": "2026-10-25T11:42:22.144143+00:00",
   "youtube_entries": 45,
   "direct_entries": 4,
   "community_entries": 66,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 18
+      "entries": 20
     },
     {
       "file": "australian_youtube_live.m3u",
-      "entries": 6
+      "entries": 5
     },
     {
       "file": "uk_youtube_live.m3u",
@@ -18,15 +18,15 @@
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 13
+      "entries": 12
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 24
+      "entries": 25
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 21
+      "entries": 20
     },
     {
       "file": "all_youtube_live.m3u",
@@ -38,7 +38,7 @@
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 81
+      "entries": 83
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Chanakyaa",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -379,7 +379,7 @@
       "name": "Sydney Opera House",
       "region": "Australia",
       "group": "Music",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Australian Chamber Orchestra",
@@ -709,7 +709,7 @@
       "name": "ESPN",
       "region": "US",
       "group": "Sports",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "WWE",
@@ -1297,7 +1297,7 @@
       "name": "Tunes 6",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Ultimate TV",
@@ -1309,7 +1309,7 @@
       "name": "Vaanavil TV",
       "region": "Tamil",
       "group": "Music",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Vasanth TV",
@@ -1376,7 +1376,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-25T04:53:32.528475+00:00",
+    "generated_at_utc": "2026-10-25T11:43:39.375921+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
