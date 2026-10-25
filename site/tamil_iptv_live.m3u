@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-10-25T16:32:06.457496+00:00
+# Generated UTC: 2026-10-25T20:58:10.479985+00:00
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Aaseervatham TV
@@ -24,8 +24,6 @@ https://account20.livebox.co.in/charleshls/live.m3u8
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="HosannaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Hosanna TV
 https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ImaiTV.lk" tvg-language="Tamil" tvg-country="LK" group-title="Tamil Entertainment",Imai TV
-https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Isai Aruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Kalaignar Murasu
@@ -46,8 +44,6 @@ https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Malai Murasu TV
 https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="MarutamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Marutam TV
-https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Moon TV
 https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",NDTV Good Times
@@ -112,6 +108,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20
 https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
 #EXTINF:-1 tvg-id="ThanthiTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Thanthi TV
 https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ThendralTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Thendral TV
+https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Tunes 6
 https://stream.d6-pro.com/Tunes6music/live/video.m3u8
 #EXTINF:-1 tvg-id="UltimateTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Ultimate TV
