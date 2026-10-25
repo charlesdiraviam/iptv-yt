@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-10-24T22:35:15.493069+00:00
+# Generated UTC: 2026-10-25T04:52:24.756427+00:00
 # Public live feeds only; refresh before use. Availability is not guaranteed.
 
 #EXTINF:-1 tvg-id="MakkalTV" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Makkal TV
@@ -7,6 +7,9 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 
 #EXTINF:-1 tvg-id="AthavanTV" tvg-language="Tamil" tvg-country="GB" group-title="Tamil Entertainment",Athavan TV
 https://oj7lnxonyg82-hls-live.5centscdn.com/uks/24263a839810d2041a349baaeef36a79.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IBCTamilTV" tvg-language="Tamil" tvg-country="GB" group-title="Tamil Entertainment",IBC Tamil TV
+https://webcast.emn.onl/IBC/index.m3u8
 
 #EXTINF:-1 tvg-id="TamilVisionHD" tvg-language="Tamil" tvg-country="CA" group-title="Tamil Entertainment",Tamil Vision HD (TVI HD)
 https://live.cmr24.fm/TVI/HD/playlist.m3u8
