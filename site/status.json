@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-25T11:42:22.144143+00:00",
-  "youtube_entries": 45,
+  "generated_at_utc": "2026-10-25T16:32:06.457496+00:00",
+  "youtube_entries": 43,
   "direct_entries": 4,
-  "community_entries": 66,
+  "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 20
+      "entries": 18
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -22,7 +22,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 25
+      "entries": 23
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 45
+      "entries": 43
     },
     {
       "file": "all_live.m3u",
-      "entries": 108
+      "entries": 105
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 83
+      "entries": 80
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 66
+      "entries": 65
     }
   ],
   "legacy_playlists": [],
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Chanakyaa",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -1015,7 +1015,7 @@
       "name": "Mei Alai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Monara TV",
@@ -1285,7 +1285,7 @@
       "name": "Thendral TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Travelxp",
@@ -1297,7 +1297,7 @@
       "name": "Tunes 6",
       "region": "Tamil",
       "group": "Music",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Ultimate TV",
@@ -1362,13 +1362,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 45,
-      "no_current_live_broadcast": 58,
+      "included": 43,
+      "no_current_live_broadcast": 60,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 45
+      "inclusion": 43
     },
     "codes": {
       "other_extraction_error": 13
@@ -1376,7 +1376,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-25T11:43:39.375921+00:00",
+    "generated_at_utc": "2026-10-25T16:33:22.405799+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1401,14 +1401,14 @@
     ],
     "candidate_channels": 99,
     "candidate_streams": 103,
-    "included": 66,
-    "omitted": 33,
+    "included": 65,
+    "omitted": 34,
     "reasons": {
-      "http_error": 6,
-      "included": 66,
+      "http_error": 7,
+      "included": 65,
       "network_error": 9,
       "no_accessible_variant": 18
     },
-    "added_to_all_live": 59
+    "added_to_all_live": 58
   }
 }
