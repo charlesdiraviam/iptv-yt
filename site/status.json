@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-26T00:28:57.637643+00:00",
-  "youtube_entries": 42,
+  "generated_at_utc": "2026-10-26T07:55:17.289009+00:00",
+  "youtube_entries": 44,
   "direct_entries": 4,
-  "community_entries": 65,
+  "community_entries": 67,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 17
+      "entries": 19
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -22,7 +22,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 22
+      "entries": 24
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 42
+      "entries": 44
     },
     {
       "file": "all_live.m3u",
-      "entries": 103
+      "entries": 108
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 78
+      "entries": 83
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 65
+      "entries": 67
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -133,7 +133,7 @@
       "name": "Kalaignar News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "live_but_no_accessible_hls"
     },
     {
       "name": "Captain News",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Chanakyaa",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -775,7 +775,7 @@
       "name": "AMN TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Aaryaa TV",
@@ -967,7 +967,7 @@
       "name": "M Nadu TV",
       "region": "Tamil",
       "group": "News",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "MTA6 Asia",
@@ -1015,13 +1015,13 @@
       "name": "Marutam TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Mei Alai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Monara TV",
@@ -1069,7 +1069,7 @@
       "name": "News18 Tamil Nadu",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "News 7 Tamil",
@@ -1315,7 +1315,7 @@
       "name": "Vaanavil TV",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Vasanth TV",
@@ -1368,21 +1368,24 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 42,
-      "no_current_live_broadcast": 61,
+      "included": 44,
+      "live_but_no_accessible_hls": 1,
+      "no_current_live_broadcast": 58,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 42
+      "download_error": 1,
+      "inclusion": 44
     },
     "codes": {
+      "bot_verification_required": 1,
       "other_extraction_error": 13
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-26T00:30:08.819578+00:00",
+    "generated_at_utc": "2026-10-26T07:56:42.751055+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1407,14 +1410,14 @@
     ],
     "candidate_channels": 100,
     "candidate_streams": 104,
-    "included": 65,
-    "omitted": 35,
+    "included": 67,
+    "omitted": 33,
     "reasons": {
-      "http_error": 7,
-      "included": 65,
-      "network_error": 11,
+      "http_error": 6,
+      "included": 67,
+      "network_error": 10,
       "no_accessible_variant": 17
     },
-    "added_to_all_live": 57
+    "added_to_all_live": 60
   }
 }
