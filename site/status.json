@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-26T15:18:03.001444+00:00",
-  "youtube_entries": 46,
+  "generated_at_utc": "2026-10-26T21:06:17.251913+00:00",
+  "youtube_entries": 45,
   "direct_entries": 4,
-  "community_entries": 67,
+  "community_entries": 68,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 19
+      "entries": 18
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -14,15 +14,15 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 9
+      "entries": 8
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 13
+      "entries": 14
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 24
+      "entries": 23
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 46
+      "entries": 45
     },
     {
       "file": "all_live.m3u",
-      "entries": 109
+      "entries": 110
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 82
+      "entries": 83
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 67
+      "entries": 68
     }
   ],
   "legacy_playlists": [],
@@ -247,7 +247,7 @@
       "name": "Vendhar TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Puthuyugam TV",
@@ -505,7 +505,7 @@
       "name": "ITV News",
       "region": "UK",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Channel 4 News",
@@ -703,7 +703,7 @@
       "name": "MLB",
       "region": "US",
       "group": "Sports",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "ESPN",
@@ -775,7 +775,7 @@
       "name": "AMN TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Aaryaa TV",
@@ -1368,13 +1368,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 46,
-      "no_current_live_broadcast": 57,
+      "included": 45,
+      "no_current_live_broadcast": 58,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 46
+      "inclusion": 45
     },
     "codes": {
       "other_extraction_error": 13
@@ -1382,7 +1382,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-26T15:19:21.504638+00:00",
+    "generated_at_utc": "2026-10-26T21:07:35.007630+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1407,14 +1407,14 @@
     ],
     "candidate_channels": 100,
     "candidate_streams": 104,
-    "included": 67,
-    "omitted": 33,
+    "included": 68,
+    "omitted": 32,
     "reasons": {
-      "http_error": 7,
-      "included": 67,
+      "http_error": 6,
+      "included": 68,
       "network_error": 8,
       "no_accessible_variant": 18
     },
-    "added_to_all_live": 59
+    "added_to_all_live": 61
   }
 }
