@@ -1,7 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-10-26T07:55:17.289009+00:00
-#EXTINF:-1 tvg-id="AMNTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",AMN TV
-https://live.onecloudlive.in/amn/amntv/index.m3u8
+# Generated UTC: 2026-10-26T15:18:03.001444+00:00
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Aaseervatham TV
@@ -122,6 +120,8 @@ https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8
 https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
 #EXTINF:-1 tvg-id="UltimateTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Ultimate TV
 https://stream.ottlive.co.in/utvtamil/index.m3u8
+#EXTINF:-1 tvg-id="VaanavilTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VasanthTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Vasanth TV
 https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
 #EXTINF:-1 tvg-id="VelichamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Velicham TV

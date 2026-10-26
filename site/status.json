@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-26T07:55:17.289009+00:00",
-  "youtube_entries": 44,
+  "generated_at_utc": "2026-10-26T15:18:03.001444+00:00",
+  "youtube_entries": 46,
   "direct_entries": 4,
   "community_entries": 67,
   "playlists": [
@@ -14,11 +14,11 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 8
+      "entries": 9
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 12
+      "entries": 13
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
@@ -26,19 +26,19 @@
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 20
+      "entries": 22
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 44
+      "entries": 46
     },
     {
       "file": "all_live.m3u",
-      "entries": 108
+      "entries": 109
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 83
+      "entries": 82
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -133,7 +133,7 @@
       "name": "Kalaignar News",
       "region": "Tamil",
       "group": "News",
-      "status": "live_but_no_accessible_hls"
+      "status": "included"
     },
     {
       "name": "Captain News",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -247,7 +247,7 @@
       "name": "Vendhar TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Puthuyugam TV",
@@ -505,7 +505,7 @@
       "name": "ITV News",
       "region": "UK",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Channel 4 News",
@@ -613,7 +613,7 @@
       "name": "CBS News",
       "region": "US",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "LiveNOW from FOX",
@@ -775,7 +775,7 @@
       "name": "AMN TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Aaryaa TV",
@@ -1315,7 +1315,7 @@
       "name": "Vaanavil TV",
       "region": "Tamil",
       "group": "Music",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Vasanth TV",
@@ -1368,24 +1368,21 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 44,
-      "live_but_no_accessible_hls": 1,
-      "no_current_live_broadcast": 58,
+      "included": 46,
+      "no_current_live_broadcast": 57,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "download_error": 1,
-      "inclusion": 44
+      "inclusion": 46
     },
     "codes": {
-      "bot_verification_required": 1,
       "other_extraction_error": 13
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-26T07:56:42.751055+00:00",
+    "generated_at_utc": "2026-10-26T15:19:21.504638+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1413,11 +1410,11 @@
     "included": 67,
     "omitted": 33,
     "reasons": {
-      "http_error": 6,
+      "http_error": 7,
       "included": 67,
-      "network_error": 10,
-      "no_accessible_variant": 17
+      "network_error": 8,
+      "no_accessible_variant": 18
     },
-    "added_to_all_live": 60
+    "added_to_all_live": 59
   }
 }
