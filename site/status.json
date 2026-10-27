@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-27T14:38:24.666686+00:00",
-  "youtube_entries": 44,
+  "generated_at_utc": "2026-10-27T20:47:44.894587+00:00",
+  "youtube_entries": 45,
   "direct_entries": 4,
   "community_entries": 66,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 18
+      "entries": 17
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -18,27 +18,27 @@
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 13
+      "entries": 15
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 23
+      "entries": 22
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 21
+      "entries": 23
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 44
+      "entries": 45
     },
     {
       "file": "all_live.m3u",
-      "entries": 107
+      "entries": 108
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 81
+      "entries": 80
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -637,13 +637,13 @@
       "name": "PBS NewsHour",
       "region": "US",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Fox News",
       "region": "US",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "NASA",
@@ -1093,7 +1093,7 @@
       "name": "OM TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Oli TV",
@@ -1213,7 +1213,7 @@
       "name": "Sooriyan TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Star Tamil Television",
@@ -1303,7 +1303,7 @@
       "name": "Tunes 6",
       "region": "Tamil",
       "group": "Music",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Ultimate TV",
@@ -1315,7 +1315,7 @@
       "name": "Vaanavil TV",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Vasanth TV",
@@ -1368,13 +1368,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 44,
-      "no_current_live_broadcast": 59,
+      "included": 45,
+      "no_current_live_broadcast": 58,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 44
+      "inclusion": 45
     },
     "codes": {
       "other_extraction_error": 13
@@ -1382,7 +1382,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-27T14:39:37.861935+00:00",
+    "generated_at_utc": "2026-10-27T20:48:59.254789+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1410,10 +1410,10 @@
     "included": 66,
     "omitted": 34,
     "reasons": {
-      "http_error": 7,
+      "http_error": 8,
       "included": 66,
       "network_error": 8,
-      "no_accessible_variant": 19
+      "no_accessible_variant": 18
     },
     "added_to_all_live": 59
   }
