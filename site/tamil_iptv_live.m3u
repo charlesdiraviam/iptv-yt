@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-10-26T21:06:17.251913+00:00
+# Generated UTC: 2026-10-27T14:27:15.958461+00:00
 #EXTINF:-1 tvg-id="AMNTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",AMN TV
 https://live.onecloudlive.in/amn/amntv/index.m3u8
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Aaryaa TV
@@ -66,8 +66,6 @@ https://galaxyott.live/hls/ntv.m3u8
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 tvg-id="OMTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",OM TV
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
-#EXTINF:-1 tvg-id="OliTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Oli TV
-https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="PolimerNews.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Polimer News
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Puthiya Thalaimurai
@@ -120,6 +118,8 @@ https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
 https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ThendralTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Thendral TV
 https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
+#EXTINF:-1 tvg-id="Tunes6.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Tunes 6
+https://stream.d6-pro.com/Tunes6music/live/video.m3u8
 #EXTINF:-1 tvg-id="UltimateTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Ultimate TV
 https://stream.ottlive.co.in/utvtamil/index.m3u8
 #EXTINF:-1 tvg-id="VaanavilTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Vaanavil TV
