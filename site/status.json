@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-27T14:32:13.860992+00:00",
+  "generated_at_utc": "2026-10-27T14:38:24.666686+00:00",
   "youtube_entries": 44,
   "direct_entries": 4,
   "community_entries": 66,
@@ -919,7 +919,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Isai Aruvi",
@@ -1213,7 +1213,7 @@
       "name": "Sooriyan TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Star Tamil Television",
@@ -1382,7 +1382,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-27T14:33:29.647649+00:00",
+    "generated_at_utc": "2026-10-27T14:39:37.861935+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1410,10 +1410,10 @@
     "included": 66,
     "omitted": 34,
     "reasons": {
-      "http_error": 8,
+      "http_error": 7,
       "included": 66,
       "network_error": 8,
-      "no_accessible_variant": 18
+      "no_accessible_variant": 19
     },
     "added_to_all_live": 59
   }
