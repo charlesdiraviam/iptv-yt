@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-28T01:29:12.768214+00:00",
-  "youtube_entries": 43,
+  "generated_at_utc": "2026-10-28T08:42:10.389514+00:00",
+  "youtube_entries": 46,
   "direct_entries": 4,
-  "community_entries": 69,
+  "community_entries": 67,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 17
+      "entries": 20
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -22,7 +22,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 22
+      "entries": 25
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,7 +30,7 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 43
+      "entries": 46
     },
     {
       "file": "all_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 69
+      "entries": 67
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Chanakyaa",
@@ -187,7 +187,7 @@
       "name": "Pattampoochi",
       "region": "Tamil",
       "group": "Kids",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "ChuChuTV Tamil",
@@ -913,7 +913,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Isai Aruvi",
@@ -1015,7 +1015,7 @@
       "name": "Mei Alai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Monara TV",
@@ -1063,7 +1063,7 @@
       "name": "News18 Tamil Nadu",
       "region": "Tamil",
       "group": "News",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "News 7 Tamil",
@@ -1171,7 +1171,7 @@
       "name": "Sana Plus",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Sana TV",
@@ -1362,13 +1362,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 43,
-      "no_current_live_broadcast": 60,
+      "included": 46,
+      "no_current_live_broadcast": 57,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 43
+      "inclusion": 46
     },
     "codes": {
       "other_extraction_error": 13
@@ -1376,17 +1376,17 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-28T01:30:25.027371+00:00",
+    "generated_at_utc": "2026-10-28T08:43:33.642599+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
         "status": "ok",
-        "entries": 31676
+        "entries": 31707
       },
       {
         "id": "iptv_org_feeds",
         "status": "ok",
-        "entries": 45297
+        "entries": 45331
       },
       {
         "id": "iptv_org_tamil",
@@ -1401,14 +1401,14 @@
     ],
     "candidate_channels": 99,
     "candidate_streams": 103,
-    "included": 69,
-    "omitted": 30,
+    "included": 67,
+    "omitted": 32,
     "reasons": {
-      "http_error": 6,
-      "included": 69,
-      "network_error": 7,
-      "no_accessible_variant": 17
+      "http_error": 7,
+      "included": 67,
+      "network_error": 9,
+      "no_accessible_variant": 16
     },
-    "added_to_all_live": 62
+    "added_to_all_live": 59
   }
 }
