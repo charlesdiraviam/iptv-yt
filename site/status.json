@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-28T08:42:10.389514+00:00",
+  "generated_at_utc": "2026-10-28T16:44:55.999742+00:00",
   "youtube_entries": 46,
   "direct_entries": 4,
-  "community_entries": 67,
+  "community_entries": 66,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 67
+      "entries": 66
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Chanakyaa",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -229,7 +229,7 @@
       "name": "Jaya TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Raj Television",
@@ -775,7 +775,7 @@
       "name": "AMN TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Aaryaa TV",
@@ -913,7 +913,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Isai Aruvi",
@@ -949,7 +949,7 @@
       "name": "Life TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "MK Six",
@@ -1015,7 +1015,7 @@
       "name": "Mei Alai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Monara TV",
@@ -1063,7 +1063,7 @@
       "name": "News18 Tamil Nadu",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "News 7 Tamil",
@@ -1171,7 +1171,7 @@
       "name": "Sana Plus",
       "region": "Tamil",
       "group": "Music",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Sana TV",
@@ -1297,7 +1297,7 @@
       "name": "Tunes 6",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Ultimate TV",
@@ -1376,7 +1376,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-28T08:43:33.642599+00:00",
+    "generated_at_utc": "2026-10-28T16:46:11.733839+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1396,18 +1396,18 @@
       {
         "id": "free_tv",
         "status": "ok",
-        "entries": 2052
+        "entries": 2053
       }
     ],
     "candidate_channels": 99,
     "candidate_streams": 103,
-    "included": 67,
-    "omitted": 32,
+    "included": 66,
+    "omitted": 33,
     "reasons": {
-      "http_error": 7,
-      "included": 67,
-      "network_error": 9,
-      "no_accessible_variant": 16
+      "http_error": 8,
+      "included": 66,
+      "network_error": 8,
+      "no_accessible_variant": 17
     },
     "added_to_all_live": 59
   }
