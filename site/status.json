@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-28T16:44:55.999742+00:00",
+  "generated_at_utc": "2026-10-28T22:43:04.247809+00:00",
   "youtube_entries": 46,
   "direct_entries": 4,
-  "community_entries": 66,
+  "community_entries": 64,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 20
+      "entries": 18
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -14,19 +14,19 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 8
+      "entries": 9
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 13
+      "entries": 14
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 25
+      "entries": 23
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 21
+      "entries": 23
     },
     {
       "file": "all_youtube_live.m3u",
@@ -34,11 +34,11 @@
     },
     {
       "file": "all_live.m3u",
-      "entries": 109
+      "entries": 107
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 83
+      "entries": 79
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 66
+      "entries": 64
     }
   ],
   "legacy_playlists": [],
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -229,7 +229,7 @@
       "name": "Jaya TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Raj Television",
@@ -505,7 +505,7 @@
       "name": "ITV News",
       "region": "UK",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Channel 4 News",
@@ -637,7 +637,7 @@
       "name": "PBS NewsHour",
       "region": "US",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Fox News",
@@ -775,7 +775,7 @@
       "name": "AMN TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Aaryaa TV",
@@ -913,7 +913,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Isai Aruvi",
@@ -1087,7 +1087,7 @@
       "name": "OM TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Oli TV",
@@ -1171,7 +1171,7 @@
       "name": "Sana Plus",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Sana TV",
@@ -1376,7 +1376,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-28T16:46:11.733839+00:00",
+    "generated_at_utc": "2026-10-28T22:44:17.983896+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1401,14 +1401,14 @@
     ],
     "candidate_channels": 99,
     "candidate_streams": 103,
-    "included": 66,
-    "omitted": 33,
+    "included": 64,
+    "omitted": 35,
     "reasons": {
-      "http_error": 8,
-      "included": 66,
+      "http_error": 10,
+      "included": 64,
       "network_error": 8,
       "no_accessible_variant": 17
     },
-    "added_to_all_live": 59
+    "added_to_all_live": 57
   }
 }
