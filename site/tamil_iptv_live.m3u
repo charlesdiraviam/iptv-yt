@@ -1,7 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-10-29T13:13:48.391960+00:00
-#EXTINF:-1 tvg-id="AMNTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",AMN TV
-https://live.onecloudlive.in/amn/amntv/index.m3u8
+# Generated UTC: 2026-10-29T19:43:35.817899+00:00
 #EXTINF:-1 tvg-id="AaryaaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Aaryaa TV
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Aaseervatham TV
@@ -64,10 +62,6 @@ https://galaxyott.live/hls/ntv.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/nambikkaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="News7Tamil.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",News 7 Tamil
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
-#EXTINF:-1 tvg-id="OMTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",OM TV
-https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
-#EXTINF:-1 tvg-id="OliTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Oli TV
-https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="PolimerNews.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Polimer News
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil News",Puthiya Thalaimurai
@@ -88,6 +82,8 @@ https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playl
 https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
 #EXTINF:-1 tvg-id="SairamTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sairam TV
 https://mumt04.tangotv.in/m18aqlK4SAIRAMTV/index.m3u8
+#EXTINF:-1 tvg-id="SanaPlus.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Music",Sana Plus
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="SanaTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sana TV
 https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
 #EXTINF:-1 tvg-id="SankaraTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Sankara TV
@@ -128,8 +124,6 @@ https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
 https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8
 #EXTINF:-1 tvg-id="VendharTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Vendhar TV
 https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
-#EXTINF:-1 tvg-id="VerbumTV.lk" tvg-language="Tamil" tvg-country="LK" group-title="Tamil Entertainment",Verbum TV
-https://video-eu1.streamerr.co/hls/scb80244b91/live.m3u8
 #EXTINF:-1 tvg-id="VillageTV.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Village TV
 https://live.villagetv.net/villagetv/hd/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTamil.in" tvg-language="Tamil" tvg-country="IN" group-title="Tamil Entertainment",Zee Tamil
