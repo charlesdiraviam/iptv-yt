@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-29T05:56:54.359780+00:00",
-  "youtube_entries": 46,
+  "generated_at_utc": "2026-10-29T13:13:48.391960+00:00",
+  "youtube_entries": 44,
   "direct_entries": 4,
-  "community_entries": 70,
+  "community_entries": 67,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 20
+      "entries": 18
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -22,7 +22,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 25
+      "entries": 23
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 46
+      "entries": 44
     },
     {
       "file": "all_live.m3u",
-      "entries": 112
+      "entries": 108
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 86
+      "entries": 82
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 70
+      "entries": 67
     }
   ],
   "legacy_playlists": [],
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Chanakyaa",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -211,7 +211,7 @@
       "name": "Vijay Television",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "no_current_live_broadcast"
+      "status": "extraction_error"
     },
     {
       "name": "Zee Tamil",
@@ -403,7 +403,7 @@
       "name": "AFL",
       "region": "Australia",
       "group": "Sports",
-      "status": "no_current_live_broadcast"
+      "status": "extraction_error"
     },
     {
       "name": "NRL",
@@ -1063,7 +1063,7 @@
       "name": "News18 Tamil Nadu",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "News 7 Tamil",
@@ -1171,7 +1171,7 @@
       "name": "Sana Plus",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Sana TV",
@@ -1297,7 +1297,7 @@
       "name": "Tunes 6",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Ultimate TV",
@@ -1362,21 +1362,22 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 46,
+      "extraction_error": 2,
+      "included": 44,
       "no_current_live_broadcast": 57,
       "no_streams_tab": 12
     },
     "stages": {
-      "listing": 103,
-      "inclusion": 46
+      "listing": 101,
+      "inclusion": 44
     },
     "codes": {
-      "other_extraction_error": 13
+      "other_extraction_error": 15
     }
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-29T05:58:10.057150+00:00",
+    "generated_at_utc": "2026-10-29T13:15:06.841357+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1401,14 +1402,14 @@
     ],
     "candidate_channels": 99,
     "candidate_streams": 103,
-    "included": 70,
-    "omitted": 29,
+    "included": 67,
+    "omitted": 32,
     "reasons": {
-      "http_error": 6,
-      "included": 70,
-      "network_error": 7,
-      "no_accessible_variant": 16
+      "http_error": 7,
+      "included": 67,
+      "network_error": 8,
+      "no_accessible_variant": 17
     },
-    "added_to_all_live": 62
+    "added_to_all_live": 60
   }
 }
