@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-29T19:43:35.817899+00:00",
-  "youtube_entries": 47,
+  "generated_at_utc": "2026-10-30T00:01:08.375599+00:00",
+  "youtube_entries": 43,
   "direct_entries": 4,
-  "community_entries": 64,
+  "community_entries": 66,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
@@ -14,11 +14,11 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 9
+      "entries": 8
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 16
+      "entries": 13
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
@@ -26,19 +26,19 @@
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 25
+      "entries": 21
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 47
+      "entries": 43
     },
     {
       "file": "all_live.m3u",
-      "entries": 108
+      "entries": 106
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 78
+      "entries": 80
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 64
+      "entries": 66
     }
   ],
   "legacy_playlists": [],
@@ -535,7 +535,7 @@
       "name": "BBC Radio 1",
       "region": "UK",
       "group": "Music",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "NTS Radio",
@@ -637,13 +637,13 @@
       "name": "PBS NewsHour",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Fox News",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "NASA",
@@ -709,7 +709,7 @@
       "name": "ESPN",
       "region": "US",
       "group": "Sports",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "WWE",
@@ -775,7 +775,7 @@
       "name": "AMN TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Aaryaa TV",
@@ -1333,7 +1333,7 @@
       "name": "Verbum TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Village TV",
@@ -1362,13 +1362,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 47,
-      "no_current_live_broadcast": 56,
+      "included": 43,
+      "no_current_live_broadcast": 60,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 47
+      "inclusion": 43
     },
     "codes": {
       "other_extraction_error": 13
@@ -1376,7 +1376,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-29T19:44:45.119295+00:00",
+    "generated_at_utc": "2026-10-30T00:02:19.911885+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1401,14 +1401,14 @@
     ],
     "candidate_channels": 99,
     "candidate_streams": 103,
-    "included": 64,
-    "omitted": 35,
+    "included": 66,
+    "omitted": 33,
     "reasons": {
-      "http_error": 9,
-      "included": 64,
-      "network_error": 9,
+      "http_error": 8,
+      "included": 66,
+      "network_error": 8,
       "no_accessible_variant": 17
     },
-    "added_to_all_live": 57
+    "added_to_all_live": 59
   }
 }
