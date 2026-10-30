@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-10-30T13:07:09.200037+00:00",
-  "youtube_entries": 44,
+  "generated_at_utc": "2026-10-30T19:29:52.708126+00:00",
+  "youtube_entries": 45,
   "direct_entries": 4,
-  "community_entries": 65,
+  "community_entries": 67,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
@@ -14,7 +14,7 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 8
+      "entries": 9
     },
     {
       "file": "us_youtube_live.m3u",
@@ -26,19 +26,19 @@
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 21
+      "entries": 22
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 44
+      "entries": 45
     },
     {
       "file": "all_live.m3u",
-      "entries": 106
+      "entries": 109
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 80
+      "entries": 82
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 65
+      "entries": 67
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -505,7 +505,7 @@
       "name": "ITV News",
       "region": "UK",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Channel 4 News",
@@ -1087,13 +1087,13 @@
       "name": "OM TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Oli TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Peppers TV",
@@ -1207,7 +1207,7 @@
       "name": "Sooriyan TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Star Tamil Television",
@@ -1297,7 +1297,7 @@
       "name": "Tunes 6",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Ultimate TV",
@@ -1362,13 +1362,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 44,
-      "no_current_live_broadcast": 59,
+      "included": 45,
+      "no_current_live_broadcast": 58,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 44
+      "inclusion": 45
     },
     "codes": {
       "other_extraction_error": 13
@@ -1376,7 +1376,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-30T13:08:28.771705+00:00",
+    "generated_at_utc": "2026-10-30T19:31:07.711251+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1401,14 +1401,14 @@
     ],
     "candidate_channels": 99,
     "candidate_streams": 103,
-    "included": 65,
-    "omitted": 34,
+    "included": 67,
+    "omitted": 32,
     "reasons": {
-      "http_error": 10,
-      "included": 65,
-      "network_error": 7,
+      "http_error": 7,
+      "included": 67,
+      "network_error": 8,
       "no_accessible_variant": 17
     },
-    "added_to_all_live": 58
+    "added_to_all_live": 60
   }
 }
