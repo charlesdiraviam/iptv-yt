@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-30T19:29:52.708126+00:00",
-  "youtube_entries": 45,
+  "generated_at_utc": "2026-10-30T23:55:27.681924+00:00",
+  "youtube_entries": 44,
   "direct_entries": 4,
   "community_entries": 67,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 18
+      "entries": 17
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -14,15 +14,15 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 9
+      "entries": 8
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 13
+      "entries": 14
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 23
+      "entries": 22
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 45
+      "entries": 44
     },
     {
       "file": "all_live.m3u",
-      "entries": 109
+      "entries": 108
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 82
+      "entries": 81
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -505,7 +505,7 @@
       "name": "ITV News",
       "region": "UK",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Channel 4 News",
@@ -637,7 +637,7 @@
       "name": "PBS NewsHour",
       "region": "US",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Fox News",
@@ -1362,13 +1362,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 45,
-      "no_current_live_broadcast": 58,
+      "included": 44,
+      "no_current_live_broadcast": 59,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 45
+      "inclusion": 44
     },
     "codes": {
       "other_extraction_error": 13
@@ -1376,7 +1376,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-30T19:31:07.711251+00:00",
+    "generated_at_utc": "2026-10-30T23:56:41.447584+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
