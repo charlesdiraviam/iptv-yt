@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-30T00:01:08.375599+00:00",
-  "youtube_entries": 43,
+  "generated_at_utc": "2026-10-30T05:58:12.121949+00:00",
+  "youtube_entries": 46,
   "direct_entries": 4,
-  "community_entries": 66,
+  "community_entries": 68,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 17
+      "entries": 20
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -22,7 +22,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 22
+      "entries": 25
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 43
+      "entries": 46
     },
     {
       "file": "all_live.m3u",
-      "entries": 106
+      "entries": 111
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 80
+      "entries": 85
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 66
+      "entries": 68
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -145,7 +145,7 @@
       "name": "Zee Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Chanakyaa",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -1087,13 +1087,13 @@
       "name": "OM TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Oli TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Peppers TV",
@@ -1362,13 +1362,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 43,
-      "no_current_live_broadcast": 60,
+      "included": 46,
+      "no_current_live_broadcast": 57,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 43
+      "inclusion": 46
     },
     "codes": {
       "other_extraction_error": 13
@@ -1376,17 +1376,17 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-30T00:02:19.911885+00:00",
+    "generated_at_utc": "2026-10-30T05:59:26.298877+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
         "status": "ok",
-        "entries": 31708
+        "entries": 31711
       },
       {
         "id": "iptv_org_feeds",
         "status": "ok",
-        "entries": 45332
+        "entries": 45335
       },
       {
         "id": "iptv_org_tamil",
@@ -1401,14 +1401,14 @@
     ],
     "candidate_channels": 99,
     "candidate_streams": 103,
-    "included": 66,
-    "omitted": 33,
+    "included": 68,
+    "omitted": 31,
     "reasons": {
-      "http_error": 8,
-      "included": 66,
+      "http_error": 6,
+      "included": 68,
       "network_error": 8,
       "no_accessible_variant": 17
     },
-    "added_to_all_live": 59
+    "added_to_all_live": 61
   }
 }
