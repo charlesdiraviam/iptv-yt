@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-31T12:44:35.164841+00:00",
-  "youtube_entries": 45,
+  "generated_at_utc": "2026-10-31T18:39:50.168210+00:00",
+  "youtube_entries": 42,
   "direct_entries": 4,
   "community_entries": 65,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 20
+      "entries": 17
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -22,7 +22,7 @@
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 25
+      "entries": 22
     },
     {
       "file": "english_youtube_live.m3u",
@@ -30,15 +30,15 @@
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 45
+      "entries": 42
     },
     {
       "file": "all_live.m3u",
-      "entries": 107
+      "entries": 104
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 82
+      "entries": 79
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -175,7 +175,7 @@
       "name": "DD Tamil News",
       "region": "Tamil",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Tridev Tamil Rhymes",
@@ -241,7 +241,7 @@
       "name": "DD Tamil",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Vendhar TV",
@@ -775,7 +775,7 @@
       "name": "AMN TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Aaryaa TV",
@@ -913,7 +913,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Isai Aruvi",
@@ -1297,7 +1297,7 @@
       "name": "Tunes 6",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Ultimate TV",
@@ -1309,7 +1309,7 @@
       "name": "Vaanavil TV",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Vasanth TV",
@@ -1362,13 +1362,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 45,
-      "no_current_live_broadcast": 58,
+      "included": 42,
+      "no_current_live_broadcast": 61,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 45
+      "inclusion": 42
     },
     "codes": {
       "other_extraction_error": 13
@@ -1376,7 +1376,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-31T12:45:47.214359+00:00",
+    "generated_at_utc": "2026-10-31T18:41:03.934051+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1404,9 +1404,9 @@
     "included": 65,
     "omitted": 34,
     "reasons": {
-      "http_error": 10,
+      "http_error": 9,
       "included": 65,
-      "network_error": 7,
+      "network_error": 8,
       "no_accessible_variant": 17
     },
     "added_to_all_live": 58
