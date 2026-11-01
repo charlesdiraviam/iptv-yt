@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-10-31T23:28:41.745262+00:00",
+  "generated_at_utc": "2026-11-01T06:18:17.895493+00:00",
   "youtube_entries": 41,
   "direct_entries": 4,
-  "community_entries": 68,
+  "community_entries": 69,
   "playlists": [
     {
       "file": "tamil_youtube_live.m3u",
-      "entries": 17
+      "entries": 18
     },
     {
       "file": "australian_youtube_live.m3u",
@@ -18,15 +18,15 @@
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 11
+      "entries": 10
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
-      "entries": 22
+      "entries": 23
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 19
+      "entries": 18
     },
     {
       "file": "all_youtube_live.m3u",
@@ -34,11 +34,11 @@
     },
     {
       "file": "all_live.m3u",
-      "entries": 106
+      "entries": 107
     },
     {
       "file": "tamil_live.m3u",
-      "entries": 82
+      "entries": 84
     },
     {
       "file": "tamil_broadcaster_live.m3u",
@@ -46,7 +46,7 @@
     },
     {
       "file": "tamil_iptv_live.m3u",
-      "entries": 68
+      "entries": 69
     }
   ],
   "legacy_playlists": [],
@@ -97,7 +97,7 @@
       "name": "Dinamalar",
       "region": "Tamil",
       "group": "News",
-      "status": "no_current_live_broadcast"
+      "status": "included"
     },
     {
       "name": "News18 Tamil Nadu",
@@ -739,7 +739,7 @@
       "name": "Nickelodeon",
       "region": "US",
       "group": "Kids",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Makkal TV",
@@ -913,7 +913,7 @@
       "name": "Imai TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Isai Aruvi",
@@ -1376,22 +1376,22 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-10-31T23:29:54.748956+00:00",
+    "generated_at_utc": "2026-11-01T06:19:21.460254+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
         "status": "ok",
-        "entries": 31712
+        "entries": 31717
       },
       {
         "id": "iptv_org_feeds",
         "status": "ok",
-        "entries": 45336
+        "entries": 45348
       },
       {
         "id": "iptv_org_tamil",
         "status": "ok",
-        "entries": 127
+        "entries": 124
       },
       {
         "id": "free_tv",
@@ -1401,14 +1401,14 @@
     ],
     "candidate_channels": 99,
     "candidate_streams": 103,
-    "included": 68,
-    "omitted": 31,
+    "included": 69,
+    "omitted": 30,
     "reasons": {
-      "http_error": 7,
-      "included": 68,
+      "http_error": 6,
+      "included": 69,
       "network_error": 7,
       "no_accessible_variant": 17
     },
-    "added_to_all_live": 61
+    "added_to_all_live": 62
   }
 }
