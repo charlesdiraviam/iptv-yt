@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-02T16:21:56.747326+00:00",
-  "youtube_entries": 45,
+  "generated_at_utc": "2026-11-03T01:05:20.348680+00:00",
+  "youtube_entries": 42,
   "direct_entries": 4,
   "community_entries": 66,
   "playlists": [
@@ -14,11 +14,11 @@
     },
     {
       "file": "uk_youtube_live.m3u",
-      "entries": 9
+      "entries": 8
     },
     {
       "file": "us_youtube_live.m3u",
-      "entries": 14
+      "entries": 12
     },
     {
       "file": "tamil_australian_youtube_live.m3u",
@@ -26,15 +26,15 @@
     },
     {
       "file": "english_youtube_live.m3u",
-      "entries": 23
+      "entries": 20
     },
     {
       "file": "all_youtube_live.m3u",
-      "entries": 45
+      "entries": 42
     },
     {
       "file": "all_live.m3u",
-      "entries": 108
+      "entries": 105
     },
     {
       "file": "tamil_live.m3u",
@@ -505,7 +505,7 @@
       "name": "ITV News",
       "region": "UK",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Channel 4 News",
@@ -637,13 +637,13 @@
       "name": "PBS NewsHour",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "Fox News",
       "region": "US",
       "group": "News",
-      "status": "included"
+      "status": "no_current_live_broadcast"
     },
     {
       "name": "NASA",
@@ -775,7 +775,7 @@
       "name": "AMN TV",
       "region": "Tamil",
       "group": "Entertainment",
-      "status": "omitted"
+      "status": "included"
     },
     {
       "name": "Aaryaa TV",
@@ -1297,7 +1297,7 @@
       "name": "Tunes 6",
       "region": "Tamil",
       "group": "Music",
-      "status": "included"
+      "status": "omitted"
     },
     {
       "name": "Ultimate TV",
@@ -1362,13 +1362,13 @@
   ],
   "youtube_diagnostics": {
     "statuses": {
-      "included": 45,
-      "no_current_live_broadcast": 58,
+      "included": 42,
+      "no_current_live_broadcast": 61,
       "no_streams_tab": 12
     },
     "stages": {
       "listing": 103,
-      "inclusion": 45
+      "inclusion": 42
     },
     "codes": {
       "other_extraction_error": 13
@@ -1376,7 +1376,7 @@
   },
   "iptv_discovery": {
     "schema_version": 1,
-    "generated_at_utc": "2026-11-02T16:23:55.295622+00:00",
+    "generated_at_utc": "2026-11-03T01:06:40.454797+00:00",
     "catalogs": [
       {
         "id": "iptv_org_channels",
@@ -1404,10 +1404,10 @@
     "included": 66,
     "omitted": 33,
     "reasons": {
-      "http_error": 9,
+      "http_error": 8,
       "included": 66,
       "network_error": 8,
-      "no_accessible_variant": 16
+      "no_accessible_variant": 17
     },
     "added_to_all_live": 59
   }
